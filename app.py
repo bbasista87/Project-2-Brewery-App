@@ -8,11 +8,13 @@ from flask import Flask, render_template, redirect, jsonify
 
 Base = declarative_base()
 
- class Breweries(Base):
-     __tablename__ = 'breweries'
+class Breweries(Base):
+    __tablename__ = 'breweries'
     id = Column(Integer, primary_key=True)
-    name = Column(String)
+    brewery = Column(String)
     address = Column(String)
+    city = Column(String)
+    state = Column(String)
     lat = Column(Integer)
     lon = Column(Integer)
     link = Column(String)
@@ -20,7 +22,7 @@ Base = declarative_base()
 class Beers(Base):
     __tablename__ = 'beers'
     id = Column(Integer, primary_key=True)
-    name = Column(String)
+    brewery = Column(String)
     beer = Column(String)
     style = Column(String)
     abv = Column(Integer)
@@ -30,25 +32,25 @@ engine = create_engine('sqlite:///breweries.sqlite')
 session = Session(engine)
 Base.metadata.create_all(engine)
 
-with open('./data/breweries.csv') as f:
+with open('./data/breweries_final.csv', encoding='utf8') as f:
     reader = csv.reader(f)
     header_row = next(reader)
 
-    for Breweries_Brewery, Name, Score, Style, ABV, Address, Lat, Lon, Link in reader:
+    for brewery, beer, abv, ibu, style, address, city, state, latitude, longitude, website in reader:
         session.add(Breweries(
-            name=Breweries_Brewery,
-            address=Address,
-            lat=Lat,
-            lon=Lon,
-            link=Link
+            brewery=brewery,
+            address=address,
+            lat=latitude,
+            lon=longitude,
+            link=website
         ))
 
         session.add(Beers(
-                abv=ABV,
-                name=Breweries_Brewery,
-                beer=Name,
-                score=Score,
-                style=Style
+                beer=beer,
+                abv=abv,
+                ibu=ibu,
+                style=style,
+                brewery=brewery
             ))
 
     session.commit()
@@ -71,9 +73,9 @@ def markers():
 def breweries():
     session = Session(engine)
     results = []
-    for result in session.query(Breweries.name, Breweries.address, Breweries.lat, Breweries.lon, Breweries.link).group_by(Breweries.name).all():
+    for result in session.query(Breweries.brewery, Breweries.address, Breweries.lat, Breweries.lon, Breweries.link).group_by(Breweries.name).all():
         brewery_dict = {}
-        brewery_dict['name'] = result.name
+        brewery_dict['brewery'] = result.brewery
         brewery_dict['address'] = result.address
         brewery_dict['lat'] = result.lat
         brewery_dict['lon'] = result.lon
@@ -85,13 +87,13 @@ def breweries():
 def menu(brewery):
     session = Session(engine)
     beers = []
-    for beer in session.query(Beers).filter(Beers.name == brewery).all():
+    for beer in session.query(Beers).filter(Beers.beer == brewery).all():
         beer_dict = {}
-        beer_dict['ABV'] = beer.abv
-        beer_dict['Brewery'] = beer.name
-        beer_dict['Beer'] = beer.beer
-        beer_dict['Style'] = beer.style
-        beer_dict['Score'] = beer.score
+        beer_dict['abv'] = beer.abv
+        beer_dict['brewery'] = beer.brewery
+        beer_dict['beer'] = beer.beer
+        beer_dict['style'] = beer.style
+        beer_dict['ibu'] = beer.ibu
         beers.append(beer_dict)
 
     return jsonify(beers)
@@ -102,11 +104,11 @@ def table_data():
     table_data = []
     for entry in session.query(Beers).all():
         search_dict = {}
-        search_dict['ABV'] = entry.abv
-        search_dict['Brewery'] = entry.name
-        search_dict['Beer'] = entry.beer
-        search_dict['Style'] = entry.style
-        search_dict['Score'] = entry.score
+        search_dict['abv'] = entry.abv
+        search_dict['brewery'] = entry.brewery
+        search_dict['beer'] = entry.beer
+        search_dict['style'] = entry.style
+        search_dict['ibu'] = entry.ibu
         table_data.append(search_dict)
 
     return jsonify(table_data)
