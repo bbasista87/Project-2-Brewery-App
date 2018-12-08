@@ -73,7 +73,7 @@ def breweries():
 @app.route('/menu/<brewery>')
 def menu(brewery):
     beers = []
-    for entry in db.session.query(Beers).all():
+    for entry in db.session.query(Beers).filter(Beers.brewery == brewery).all():
         beer_dict = {}
         beer_dict['abv'] = entry.abv
         beer_dict['brewery'] = entry.brewery

@@ -1,4 +1,7 @@
-var mymap = L.map('map').setView([37.0902, -95.7129], 100);
+var mymap = L.map('map', {
+  center: [37.0902, -95.7129],
+  zoom: 5
+});
 
 var myIcon = L.icon({
   iconUrl: '/static/images/beer.png',
@@ -9,7 +12,7 @@ var myIcon = L.icon({
 
 L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-    maxZoom: 10,
+    maxZoom: 18,
     id: 'mapbox.streets',
     accessToken: API_KEY
 }).addTo(mymap);
