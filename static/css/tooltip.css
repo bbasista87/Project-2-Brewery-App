@@ -1,0 +1,15 @@
+.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 200px;
+    height: 280px;
+    padding: 5px;
+    font: 12px sans-serif;
+    background: black;
+    color: white;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+    transform: translate3d(0px, -100px, 0px);
+}
+/* style="opacity: 1; transform: translate3d(434px, 138px, 0px); */
