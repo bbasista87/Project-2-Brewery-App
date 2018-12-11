@@ -1,12 +1,11 @@
 var mymap = L.map('map', {
   center: [37.0902, -95.7129],
-  zoom: 5
+  zoom: 4
 });
 
 var myIcon = L.icon({
   iconUrl: '/static/images/beer.png',
   iconSize: [28, 30],
-  iconAnchor: [22, 94],
   popupAnchor: [-6, -100]
 });
 
@@ -22,7 +21,7 @@ d3.json("/breweries").then(function(data) {
     var latsLons =[d.lat, d.lon];
     latsLons.forEach(function() {
       L.marker(latsLons, {icon: myIcon})
-        .bindPopup(`<h3><a onclick="getMenu('${d.brewery}')" href="#">` + d.brewery + `</a></h3><hr><h5><a href=${d.link}>` + d.address + "</a></h5>")
+        .bindPopup(`<h3><a onclick="getMenu('${d.brewery}')" href="#">` + d.brewery + `</a></h3> <hr> <h5><a href=${d.link}>` + d.link + "</a></h5>")
         .addTo(mymap);
       })
     })

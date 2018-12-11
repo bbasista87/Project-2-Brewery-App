@@ -47,10 +47,6 @@ def setup():
 def index():
     return render_template('index.html')
 
-@app.route('/table')
-def table():
-    return render_template('table.html')
-
 @app.route('/search')
 def markers():
     return render_template('search.html')
@@ -84,19 +80,33 @@ def menu(brewery):
 
     return jsonify(beers)
 
-@app.route('/table_data')
-def table_data():
-    table_data = []
-    for entry in db.session.query(Beers).all():
+@app.route('/search/<city>')
+def table_city():
+    table_city = []
+    for c in db.session.query(Brewery_Beer).filter(Brewery_Beer.city == city).all():
         search_dict = {}
-        search_dict['abv'] = entry.abv
-        search_dict['brewery'] = entry.brewery
-        search_dict['beer'] = entry.beer
-        search_dict['style'] = entry.style
-        search_dict['ibu'] = entry.ibu
+        search_dict['abv'] = c.abv
+        search_dict['brewery'] = C.brewery
+        search_dict['beer'] = c.beer
+        search_dict['style'] = c.style
+        search_dict['ibu'] = c.ibu
         table_data.append(search_dict)
 
-    return jsonify(table_data)
+    return jsonify(table_city)
+
+@app.route('/search/<state>')
+def table_state():
+    table_state = []
+    for s in db.session.query(Brewery_Beer).filter(Brewery_Beer.state == state).all():
+        search_dict = {}
+        search_dict['abv'] = s.abv
+        search_dict['brewery'] = s.brewery
+        search_dict['beer'] = s.beer
+        search_dict['style'] = s.style
+        search_dict['ibu'] = s.ibu
+        table_data.append(search_dict)
+
+    return jsonify(table_state)
 
 if __name__ == '__main__':
     app.run(debug=True)

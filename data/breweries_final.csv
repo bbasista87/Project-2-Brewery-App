@@ -1,6 +1,6 @@
 brewery,address,city,state,latitude,longitude,website
 (512) Brewing Company,"407 Radam, F200",Austin,Texas,30.2234,-97.7697,http://512brewing.com/
-21st Amendment Brewery Cafe,563 Second Street,San Francisco,California,37.7825,-122.39299999999999,http://www.21st-amendment.com/
+21st Amendment Brewery Cafe,563 Second Street,San Francisco,California,37.7825,-122.393,http://www.21st-amendment.com/
 Abbey Wright Brewing/Valley Inn,204 Valley Street,Williamsport,Pennsylvania,41.2225,-77.0369,http://www.valleyinnonline.com/
 Aberdeen Brewing,210 Aberdeen Dr.,Valparaiso,Indiana,41.4392,-87.1078,
 Abita Brewing Company,PO Box 1510,Abita Springs,Louisiana,30.5049,-89.944,http://www.abita.com/
@@ -8,28 +8,28 @@ Aksarben Brewing (BOP),11337 Davenport St.,Omaha,Nebraska,41.2603,-96.0903,
 Alameda Brewhouse,4765 NE Fremont,Portland,Oregon,45.5484,-122.619,
 Alaskan Brewing,5429 Shaune Drive,Juneau,Alaska,58.3573,-134.49,http://www.alaskanbeer.com/
 Ale Asylum,3698 Kinsman Blvd,Madison,Wisconsin,43.1257,-89.3253,http://www.aleasylum.com/
-AleSmith Brewing,9368 Cabot Drive,San Diego,California,32.891999999999996,-117.14399999999999,http://alesmith.com/
+AleSmith Brewing,9368 Cabot Drive,San Diego,California,32.892,-117.144,http://alesmith.com/
 Ali`i Brewing,,Honolulu,Hawaii,21.3069,-157.858,
 Allagash Brewing,100 Industrial Way,Portland,Maine,43.7028,-70.3166,http://www.allagash.com/
-Allentown Brew Works,814 W Hamilton St,Allentown,Pennsylvania,40.6016,-75.47399999999999,http://www.thebrewworks.com/allentown-brewworks/
+Allentown Brew Works,814 W Hamilton St,Allentown,Pennsylvania,40.6016,-75.474,http://www.thebrewworks.com/allentown-brewworks/
 Alltech's Lexington Brewing Company,401 Cross Street,Lexington,Kentucky,38.0501,-84.5088,http://www.kentuckyale.com/kentuckyale/Index.html
 Alpine Beer Company,2351 Alpine Boulevard,Alpine,California,32.8355,-116.765,http://www.alpinebeerco.com/
 America's Brewing,205 North Broadway,Aurora,Illinois,41.7605,-88.309,
-American River Brewing,,Auburn,California,38.8966,-121.07700000000001,
-Amerisports Brew Pub,8201 NE Birmingham Road,Kansas City,Missouri,39.1551,-94.48200000000001,
+American River Brewing,,Auburn,California,38.8966,-121.077,
+Amerisports Brew Pub,8201 NE Birmingham Road,Kansas City,Missouri,39.1551,-94.482,
 Amherst Brewing Company,24 North Pleasant Street,Amherst,Massachusetts,42.3763,-72.5199,http://www.amherstbrewing.com/
 "Amicas Pizza, Microbrews and More",136 East Second Street,Salida,Colorado,38.535,-105.992,
 Anacortes Brewing,320 Commercial Avenue,Anacortes,Washington,48.5193,-122.613,http://www.anacortesrockfish.com/
-Anchor Brewing,1705 Mariposa Street,San Francisco,California,37.7635,-122.40100000000001,
-Anderson Valley Brewing,17700 Boonville Rd,Boonville,California,39.0014,-123.35600000000001,http://avbc.com/
+Anchor Brewing,1705 Mariposa Street,San Francisco,California,37.7635,-122.401,
+Anderson Valley Brewing,17700 Boonville Rd,Boonville,California,39.0014,-123.356,http://avbc.com/
 Andrew's Brewing,,Lincolnville,Maine,44.3516,-69.1401,
 Angelic Brewing,,Madison,Wisconsin,43.0785,-89.382,
 Anheuser-Busch,One Busch Place,Saint Louis,Missouri,38.5983,-90.209,http://www.anheuser-busch.com/
 Appalachian Brewing Company,50 N. Cameron St.,Harrisburg,Pennsylvania,40.2659,-76.8753,http://www.abcbrew.com
 Appleton Brewing,,Appleton,Wisconsin,44.2619,-88.4154,
-Arcadia Brewing,103 West Michigan Avenue,Battle Creek,Michigan,42.321999999999996,-85.1851,http://www.arcadiaales.com/
+Arcadia Brewing,103 West Michigan Avenue,Battle Creek,Michigan,42.322,-85.1851,http://www.arcadiaales.com/
 Asheville Pizza and Brewing Co.,675 Merrimon Avenue,Asheville,North Carolina,35.6221,-82.5536,http://www.ashevillepizza.com/
-Atlanta Brewing Company,2323 Defoor Hills Rd NW,Atlanta,Georgia,33.818000000000005,-84.4353,http://www.atlantabrewing.com/
+Atlanta Brewing Company,2323 Defoor Hills Rd NW,Atlanta,Georgia,33.818,-84.4353,http://www.atlantabrewing.com/
 Atlantic Brewing Company,15 Knox Rd.,Bar Harbor,Maine,44.3996,-68.334,http://www.atlanticbrewing.com
 Atwater Block Brewing,237 Joseph Campau Street,Detroit,Michigan,42.3372,-83.0186,http://www.atwaterbeer.com
 August Schell Brewing,1860 Schell Road,New Ulm,Minnesota,44.2896,-94.449,http://www.schellsbrewery.com/
@@ -48,19 +48,19 @@ Barley Brothers Brewery and Grill,1425 McCulloch Boulevard,Lake Havasu City,Ariz
 Barley Creek Brewing,RR 1 Box 185,Tannersville,Pennsylvania,41.0523,-75.3354,http://www.barleycreek.com/
 Barley Island Brewing,639 Conner Street,Noblesville,Indiana,40.0453,-86.0155,
 Barley John's Brewpub,781 Old Highway 8 SW,New Brighton,Minnesota,45.036,-93.1984,
-Barley's #2 Smokehouse and Brewpub,1130 Dublin Road,Columbus,Ohio,39.9745,-83.04899999999999,
+Barley's #2 Smokehouse and Brewpub,1130 Dublin Road,Columbus,Ohio,39.9745,-83.049,
 Barley's Brewing #1,467 North High Street,Columbus,Ohio,39.9719,-83.0027,
 Barley's Casino & Brewing Company,4500 East Sunset Road #30,Henderson,Nevada,36.0721,-115.075,
-Baron Brewing Company,1605 S 93rd Building E Unit L,Seattle,Washington,47.5203,-122.31200000000001,http://www.baronbeer.com/
-Barrel House Brewing Co.,544B W. Liberty St.,Cincinnati,Ohio,39.1136,-84.52600000000001,http://www.barrelhouse.com
+Baron Brewing Company,1605 S 93rd Building E Unit L,Seattle,Washington,47.5203,-122.312,http://www.baronbeer.com/
+Barrel House Brewing Co.,544B W. Liberty St.,Cincinnati,Ohio,39.1136,-84.526,http://www.barrelhouse.com
 Basil T's Brew Pub and Italian Grill,1171 Hooper Avenue,Toms River,New Jersey,39.9767,-74.1829,
 Bavarian Barbarian Brewing Company,429 W. 3rd St,Williamsport,Pennsylvania,41.238,-77.0103,http://www.bavarianbarbarian.com
 Bayern Brewing,1507 Montana Street,Missoula,Montana,46.8726,-114.02,
 "BBC Brewing Co., LLC",636 East Main Street,Louisville,Kentucky,38.2546,-85.7401,http://www.bluegrassbrew.com
 Beach Brewing,,Orlando,Florida,28.5383,-81.3792,
 Beach Chalet Brewery,1000 Great Highway,San Francisco,California,37.7694,-122.51,
-Bear Republic Brewery,345 Healdsburg Avenue,Healdsburg,California,38.6112,-122.87100000000001,http://www.bearrepublic.com/
-Beermann's Beerwerks BrewPub,,Lincoln,California,38.8916,-121.29299999999999,
+Bear Republic Brewery,345 Healdsburg Avenue,Healdsburg,California,38.6112,-122.871,http://www.bearrepublic.com/
+Beermann's Beerwerks BrewPub,,Lincoln,California,38.8916,-121.293,
 Belfast Bay Brewing Company,100 Searsport Avenue,Belfast,Maine,44.4295,-68.975,http://www.belfastbaybrewing.com/
 Bell's Brewery Inc.,8938 Krum Ave.,Galesburg,Michigan,42.2843,-85.4538,http://www.bellsbeer.com/
 Bellows Brew Crew,,Watertown,Wisconsin,43.1947,-88.729,
@@ -72,10 +72,10 @@ Big Boss Brewing Company,1249-A Wicker Drive,Raleigh,North Carolina,35.8104,-78.
 Big Buck Brewery,550 South Wisconsin Avenue,Gaylord,Michigan,45.0223,-84.6826,http://www.bigbuck.com/gaylord.html
 Big Buck Brewery and Steakhouse #2,,Grand Rapids,Michigan,42.9634,-85.6681,
 Big Dog's Brewing Company,4543 North Rancho Road,Las Vegas,Nevada,36.2426,-115.236,
-Big Hole Brewing,401 East Main Street,Belgrade,Montana,45.7736,-111.17200000000001,
+Big Hole Brewing,401 East Main Street,Belgrade,Montana,45.7736,-111.172,
 Big Horn Brewing @ The RAM 2,700 North Milwaukee Avenue,Wheeling,Illinois,42.1511,-87.9144,
 Big Sky Brewing,5417 Trumpeter Way,Missoula,Montana,46.9223,-114.073,
-Big Time Brewing,4133 University Way NE,Seattle,Washington,47.6576,-122.31299999999999,http://www.bigtimebrewery.com/
+Big Time Brewing,4133 University Way NE,Seattle,Washington,47.6576,-122.313,http://www.bigtimebrewery.com/
 Bill's Tavern & Brewhouse,188 North Hemlock,Cannon Beach,Oregon,45.8981,-123.961,
 Bison Brewing,2598 Telegraph Avenue,Berkeley,California,37.8634,-122.259,
 "BJ's Pizza, Grill, and Brewery - Jantzen Beach",12105 North Center Avenue,Portland,Oregon,45.5235,-122.676,
@@ -88,7 +88,7 @@ Blitz-Weinhard Brewing,Portland OR 97209,Portland,Oregon,45.5325,-122.686,
 Bloomington Brewing Company,"1795 E 10th St,",Bloomington,Indiana,39.1716,-86.5104,http://bbc.bloomington.com
 BluCreek Brewing Company,2605 South Stoughton Road,Madison,Wisconsin,43.0598,-89.3085,
 Blue Cat Brew Pub,113 18th Street,Rock Island,Illinois,41.5118,-90.5746,
-Blue Corn Caf and Brewery - Albuquerque,,Albuquerque,New Mexico,35.0845,-106.65100000000001,
+Blue Corn Caf and Brewery - Albuquerque,,Albuquerque,New Mexico,35.0845,-106.651,
 Blue Point Brewing,161 River Avenue,Patchogue,New York,40.7591,-73.0215,http://www.bluepointbrewing.com/
 Blue Ridge Brewing,217 North Main Street,Greenville,South Carolina,34.8531,-82.3983,http://www.blueridgebrewing.com/
 "Bluegrass Brewing Company, Inc.",3929 Shelbyville Rd.,Louisville,Kentucky,38.253,-85.654,http://www.bbcbrew.com
@@ -96,14 +96,14 @@ Bobcat Cafe & Brewery,4 Main Street,Bristol,Vermont,44.1332,-73.0784,http://www.
 Boiler Room Brewpub,2100 Casino Drive,Laughlin,Nevada,35.1584,-114.573,
 Bonaventure Brewing Co,404 South Figueroa Street #418,Los Angeles,California,34.0532,-118.256,http://www.bonaventurebrewing.com/
 Bonfire Brewery,,Northville,Michigan,42.4311,-83.4833,
-Bootleggers Steakhouse and Brewery,,Bakersfield,California,35.3733,-119.01899999999999,
+Bootleggers Steakhouse and Brewery,,Bakersfield,California,35.3733,-119.019,
 Boscos Memphis Brewing,,Germantown,Tennessee,35.0868,-89.8101,
 Boston Beer Company,30 Germania Street,Boston,Massachusetts,42.3144,-71.1034,http://www.samueladams.com/
 Boston Beer Works,61 Brookline Avenue,Boston,Massachusetts,42.347,-71.0989,
 Bottom's Up Brewing,402 West Pine Street,Pinedale,Wyoming,42.8666,-109.866,
-Boulder Beer Company,2880 Wilderness Place,Boulder,Colorado,40.0267,-105.24799999999999,http://boulderbeer.com/
+Boulder Beer Company,2880 Wilderness Place,Boulder,Colorado,40.0267,-105.248,http://boulderbeer.com/
 Boulevard Brewing Company,2501 Southwest Boulevard,Kansas City,Missouri,39.0821,-94.5965,http://www.blvdbeer.com/
-Boundary Bay Brewery and Bistro,1107 Railroad Avenue,Bellingham,Washington,48.7475,-122.48100000000001,
+Boundary Bay Brewery and Bistro,1107 Railroad Avenue,Bellingham,Washington,48.7475,-122.481,
 Brauhaus Brew Hall,111 Main Street,Lucan,Minnesota,44.4105,-95.4107,http://www.braubrothersbrewing.com/
 Breckenridge BBQ of Omaha,,Omaha,Nebraska,41.254,-95.9993,
 Breckenridge Brewery,471 Kalamath Street,Denver,Colorado,39.7236,-105.001,http://www.breckbrew.com/
@@ -114,14 +114,14 @@ Brewery at Martha's Vineyard,,Oak Bluffs,Massachusetts,41.4548,-70.565,
 Brewery Creek Brewing,23 Commerce Street,Mineral Point,Wisconsin,42.8606,-90.1772,http://www.brewerycreek.com/
 Brewery Ommegang,656 County Highway 33,Cooperstown,New York,42.6818,-74.9255,
 Brewmasters Restaurant and Brewery South,,Kenosha,Wisconsin,42.5847,-87.8212,
-Brewpub-on-the-Green,,Fremont,California,37.5483,-121.98899999999999,
+Brewpub-on-the-Green,,Fremont,California,37.5483,-121.989,
 Bricktown Brewery,299 Main Street,Dubuque,Iowa,42.4965,-90.6652,
 BridgePort Brewing,1313 NW Marshall Street,Portland,Oregon,45.5311,-122.685,http://www.bridgeportbrew.com/
 Brimstone Brewing,4607 Wedgewood Boulevard,Frederick,Maryland,39.3628,-77.4265,
-Bristol Brewing,1647 South Tejon Street,Colorado Springs,Colorado,38.8097,-104.82600000000001,
+Bristol Brewing,1647 South Tejon Street,Colorado Springs,Colorado,38.8097,-104.826,
 Broad Ripple Brewing,842 East 65th Street,Indianapolis,Indiana,39.8735,-86.1427,
 Brooklyn Brewery,79 North Eleventh Street,Brooklyn,New York,40.7215,-73.9575,http://www.brooklynbrewery.com/
-Brown Street Brewery,16 North Brown Street,Rhinelander,Wisconsin,45.638000000000005,-89.4127,
+Brown Street Brewery,16 North Brown Street,Rhinelander,Wisconsin,45.638,-89.4127,
 Brownings,401 East Main St.,Louisville,Kentucky,38.2554,-85.7441,http://www.diningonmain.com/Brownings/Brownings_home.html
 BT McClintic Beer Company,,Beloit,Wisconsin,42.5083,-89.0318,
 Bube's Brewery,102 North Market Street,Mount Joy,Pennsylvania,40.1119,-76.5031,http://www.bubesbrewery.com
@@ -134,7 +134,7 @@ Buzzards Bay Brewing Inc.,98 Horseneck Rd,Westport,Massachusetts,41.5713,-71.057
 C.B. & Potts of Cheyenne,1650 Dell Range Boulevard,Cheyenne,Wyoming,41.1607,-104.802,
 C.H. Evans Brewing Company,19 Quackenbush Square,Albany,New York,42.6542,-73.7481,http://www.evansale.com/
 Caldera Brewing,540 Clover Lane,Ashland,Oregon,42.1844,-122.663,http://www.calderabrewing.com
-Calhoun's Microbrewery,6515 Kingston Pike,Knoxville,Tennessee,35.931999999999995,-84.012,
+Calhoun's Microbrewery,6515 Kingston Pike,Knoxville,Tennessee,35.932,-84.012,
 California Cider Company,,San Rafael,California,37.9735,-122.531,
 Callahan's Pub and Brewery,8280-A Mira Mesa Boulevard,San Diego,California,32.9147,-117.146,
 Cambridge Brewing,1 Kendall Square #100,Cambridge,Massachusetts,42.3664,-71.0911,http://www.cambrew.com/
@@ -143,25 +143,25 @@ Capital Brewery,7734 Terrace Avenue,Middleton,Wisconsin,43.0949,-89.5163,http://
 Capital City Brewing Company,"1100 New York Ave, NW",Washington,District of Columbia,38.8999,-77.0272,http://www.capcitybrew.com
 Capital City Brewing Company,"1100 New York Ave, NW",Washington,District of Columbia,43.8042,-91.2526,http://www.capcitybrew.com
 Capitol City Brewing #4,2700 South Quincy Street,Arlington,Virginia,38.8411,-77.0869,
-Captain Lawrence Brewing Company,99 Castleton Street,Pleasantville,New York,41.126000000000005,-73.7896,http://www.captainlawrencebrewing.com/
+Captain Lawrence Brewing Company,99 Castleton Street,Pleasantville,New York,41.126,-73.7896,http://www.captainlawrencebrewing.com/
 Carlyle Brewing,215 East State Street,Rockford,Illinois,42.2689,-89.0907,
 Carmel Brewing,,Salinas,California,36.6777,-121.656,
 Carolina Beer Company,110 Barley Park Lane,Mooresville,North Carolina,35.6231,-80.8011,http://www.carolinabeer.com/
 Carolina Brewery,460 West Franklin Street,Chapel Hill,North Carolina,35.9103,-79.0632,
 Carver Brewing Co.,1022 Main Ave.,Durango,Colorado,37.2748,-107.88,http://www.carverbrewing.com/_/home.htm
 Castle Springs Brewery,,Moultonborough,New Hampshire,43.7548,-71.3967,
-Catamount Brewing,,White River Junction,Vermont,43.648999999999994,-72.3193,
+Catamount Brewing,,White River Junction,Vermont,43.649,-72.3193,
 Cedar Brewing,,Cedar Rapids,Iowa,41.9625,-91.6918,
 Celis Brewery,,Austin,Texas,30.2672,-97.7431,
 Central Waters Brewing Company,351 Allen Street,Amherst,Wisconsin,44.4419,-89.2797,http://www.centralwaters.com/
 Chama River Brewing,4939 Pan American Freeway NE,Albuquerque,New Mexico,35.14,-106.6,
 Charlie and Jake's Brewery and BBQ,6300 North Wickham Road #137,Melbourne,Florida,28.2126,-80.6734,
 Chelsea Brewing Company,"Chelsea Piers, Pier 59",New York,New York,40.7457,-74.0086,http://chelseabrewingco.com/
-Cherryland Brewing,,Sturgeon Bay,Wisconsin,44.8342,-87.37700000000001,
+Cherryland Brewing,,Sturgeon Bay,Wisconsin,44.8342,-87.377,
 Cheshire Cat Brewery,7803 Ralston Road,Arvada,Colorado,39.8023,-105.084,
-Chicago Brewing,2201 South Fort Apache Road,Las Vegas,Nevada,36.1476,-115.29799999999999,
+Chicago Brewing,2201 South Fort Apache Road,Las Vegas,Nevada,36.1476,-115.298,
 Cigar City Brewing,3924 West Spruce Street Suite A,Tampa,Florida,27.9587,-82.5093,http://cigarcitybeer.com/
-Circle V Brewing,,Indianapolis,Indiana,39.7684,-86.15799999999999,
+Circle V Brewing,,Indianapolis,Indiana,39.7684,-86.158,
 CJ's Brewery & Grill,,La Jolla,California,33.8575,-117.876,
 Cleveland ChopHouse and Brewery,824 West St.Clair Avenue,Cleveland,Ohio,41.4995,-81.6994,
 Climax Brewing Copmany,112 Valley Road,Roselle Park,New Jersey,40.6598,-74.283,http://www.climaxbrewing.com/
@@ -170,7 +170,7 @@ Coach's Norman,102 West Main,Norman,Oklahoma,35.2205,-97.4439,
 Coast Brewing,,Biloxi,Mississippi,30.396,-88.8853,
 Coast Range Brewing,7050 Monterey Street,Gilroy,California,37.0013,-121.566,
 Coastal Fog Brewing,,Concord,California,37.978,-122.031,
-Coeur d'Alene Brewing Company,209 Lakeside Avenue,Coeur d'Alene,Idaho,47.6745,-116.78399999999999,http://www.cdabrewing.com/
+Coeur d'Alene Brewing Company,209 Lakeside Avenue,Coeur d'Alene,Idaho,47.6745,-116.784,http://www.cdabrewing.com/
 Cold Spring Brewing,219 Red River Avenue North,Cold Spring,Minnesota,45.4582,-94.4291,http://www.coldspringbrewery.com/
 Columbia Bay Brewery Restaurant and Pub,,Lake Villa,Illinois,42.417,-88.074,
 Commonwealth Brewing #1,,Boston,Massachusetts,42.3584,-71.0598,
@@ -182,16 +182,16 @@ Copper Eagle Brewing,,Grand Island,Nebraska,40.9222,-98.3581,
 Copper Eagle Brewing,,Grand Island,Nebraska,47.9454,-122.304,
 Copper Kettle Brewery,339 Fairground Rd,Millmont,Pennsylvania,40.8942,-77.1971,http://www.ckbrewery.com/
 Corner Pub,100 Main Street,Reedsburg,Wisconsin,43.5323,-90.0099,
-Coronado Brewing Company,170 Orange Avenue,Coronado,California,32.6976,-117.17299999999999,http://www.coronadobrewingcompany.com/
+Coronado Brewing Company,170 Orange Avenue,Coronado,California,32.6976,-117.173,http://www.coronadobrewingcompany.com/
 Costal Extreme Brewing Company,307 Oliphant Lane,Middletown,Rhode Island,41.537,-71.2796,http://www.newportstorm.com/
-Court Avenue Brewing,309 Court Avenue,Des Moines,Iowa,41.5855,-93.62100000000001,
+Court Avenue Brewing,309 Court Avenue,Des Moines,Iowa,41.5855,-93.621,
 Courthouse Pub,1001 South Eighth Street,Manitowoc,Wisconsin,44.0886,-87.6576,
 Crabby Larry's Brewpub Steak & Crab House,237 West Butler Avenue,Chalfont,Pennsylvania,40.2795,-75.2143,http://www.crabbylarrys.com/
-Crabtree Brewery,625 3rd St. #D,Greeley,Colorado,40.4313,-104.68799999999999,http://www.crabtreebrewing.com
-Craftsman Brewing,1260 Lincoln Avenue #100,Pasadena,California,34.1696,-118.15899999999999,
+Crabtree Brewery,625 3rd St. #D,Greeley,Colorado,40.4313,-104.688,http://www.crabtreebrewing.com
+Craftsman Brewing,1260 Lincoln Avenue #100,Pasadena,California,34.1696,-118.159,
 Crane River Brewpub and Cafe,,Lincoln,Nebraska,40.8069,-96.6817,
 Crescent City Brewhouse,527 Decatur Street,New Orleans,Louisiana,29.9558,-90.0641,
-Crested Butte Brewery &  Pub,226 Elk Avenue,Crested Butte,Colorado,38.8698,-106.98700000000001,
+Crested Butte Brewery &  Pub,226 Elk Avenue,Crested Butte,Colorado,38.8698,-106.987,
 Cricket Hill,24 Kulick Road,Fairfield,New Jersey,40.8726,-74.2964,http://www.crickethillbrewery.com
 Crooked River Brewing,,Cleveland,Ohio,41.4995,-81.6954,
 Crooked Waters Brewing,,Peoria,Illinois,40.6936,-89.589,
@@ -202,11 +202,11 @@ Dark Horse Brewing Co.,511 S. Kalamazoo Ave.,Marshall,Michigan,42.2667,-84.9641,
 Day Brewing,,Marrero,Louisiana,29.8994,-90.1004,
 Deep Creek Brewing,,McHenry,Maryland,39.5584,-79.3528,
 DeGroen's Grill,,Baltimore,Maryland,39.2904,-76.6122,
-Del Mar Stuft Pizza and Brewing,,San Diego,California,32.7153,-117.15700000000001,
+Del Mar Stuft Pizza and Brewing,,San Diego,California,32.7153,-117.157,
 Delafield Brewhaus,3832 Hillside Drive,Delafield,Wisconsin,43.0481,-88.3553,
 Dempsey's Restaurant & Brewery,50 East Washington Street,Petaluma,California,38.2362,-122.64,
 Denmark Brewing,,Denmark,Wisconsin,44.3478,-87.8273,
-Denver ChopHouse and Brewery,1735 19th Street #100,Denver,Colorado,39.7553,-104.99700000000001,
+Denver ChopHouse and Brewery,1735 19th Street #100,Denver,Colorado,39.7553,-104.997,
 Deschutes Brewery,901 SW Simpson Avenue,Bend,Oregon,44.0474,-121.323,http://www.deschutesbrewery.com/
 Devil Mountain Brewing,,Cincinnati,Ohio,39.1361,-84.5031,
 Diamond Bear Brewing Co.,323-C Cross Street,Little Rock,Arkansas,34.7473,-92.2839,http://www.diamondbear.com/
@@ -216,14 +216,14 @@ Dick's Brewing,5945 Prather Road,Centralia,Washington,46.7713,-123.007,
 Dillon Dam Brewery,100 Little Dam Road,Dillon,Colorado,39.6282,-106.059,
 Dirt Cheap Cigarettes and Beer,895 Bolger Court,Fenton,Missouri,38.5405,-90.4607,
 Dixie Brewing,2401 Tulane Avenue,New Orleans,Louisiana,29.9606,-90.0871,
-Dixon's Downtown Grill,,Denver,Colorado,39.7541,-105.0,
+Dixon's Downtown Grill,,Denver,Colorado,39.7541,-105,
 Dock Street Beer,701 S. 50th Street,West Philly,Pennsylvania,39.9478,-75.2229,http://www.dockstreetbeer.com
 Dogfish Head Craft Brewery,6 Cannery Village Center,Milton,Delaware,38.7683,-75.3107,http://www.dogfish.com
 Dostal Alley,1 Dostal Alley,Central City,Colorado,39.8019,-105.514,
 Double Mountain Brewery & Taproom,8 Fourth Street,Hood River,Oregon,45.71,-121.515,http://www.doublemountainbrewery.com/
 Dragonmead Microbrewery,14600 East Eleven Mile Road,Warren,Michigan,42.493,-82.9753,
 Drake's Brewing,1933 Davis Street #177,San Leandro,California,37.7176,-122.182,http://drinkdrakes.com/
-Dry Gulch Brewing,,Albuquerque,New Mexico,35.0845,-106.65100000000001,
+Dry Gulch Brewing,,Albuquerque,New Mexico,35.0845,-106.651,
 Dubuque Brewing and Bottling,,Dubuque,Iowa,42.5006,-90.6646,
 Duck-Rabbit Craft Brewery,4519 W. Pine Street,Farmville,North Carolina,35.6003,-77.5971,http://www.duckrabbitbrewery.com/
 DuClaw,901 S. Bond St.,Baltimore,Maryland,39.2807,-76.5944,http://www.duclaw.com/
@@ -232,9 +232,9 @@ Duneland Brewhouse Pub and Restaurant,,Michigan City,Indiana,41.7075,-86.895,
 East End Brewing Company,6923 Susquehanna St.,Pittsburgh,Pennsylvania,40.4553,-79.9043,http://www.eastendbrewing.com/
 Eastern Shore Brewing,605 S. Talbot St.,St Michaels,Maryland,38.7814,-76.2222,http://www.easternshorebrewing.com/
 Eddie McStiff's Brewpub,57 South Main Street,Moab,Utah,38.5725,-109.551,
-Eel River Brewing,1777 Alamar Way,Fortuna,California,40.5793,-124.15299999999999,http://eelriverbrewing.com/
+Eel River Brewing,1777 Alamar Way,Fortuna,California,40.5793,-124.153,http://eelriverbrewing.com/
 Egan Brewing,,De Pere,Wisconsin,44.4489,-88.0604,
-EJ Phair Brewing Company and Alehouse,2151 Salvio Street,Concord,California,37.978,-122.03399999999999,
+EJ Phair Brewing Company and Alehouse,2151 Salvio Street,Concord,California,37.978,-122.034,
 El Toro Brewing Company,17605 Monterey Road,Morgan Hill,California,37.1553,-121.676,http://www.eltorobrewing.com/
 Elk Creek Cafe and Aleworks,100 West Main Street PO Box 432,Millheim,Pennsylvania,40.8911,-77.477,http://www.elkcreekcafe.net/
 Elk Grove Brewery & Restaurant,9085 Elk Grove Boulevard,Elk Grove,California,38.4093,-121.363,
@@ -252,14 +252,14 @@ Engine House #9,611 North Pine,Tacoma,Washington,47.256,-122.473,
 English Ales Brewery,223 Reindollar Avenue,Marina,California,36.6802,-121.804,
 Erie Brewing Company,1213 Veshecco Drive,Erie,Pennsylvania,42.1112,-80.113,http://www.eriebrewingco.com
 Esser's Cross Plains Brewery,2109 Hickory Street,Cross Plains,Wisconsin,43.1147,-89.6531,http://www.essersbest.com/
-Estes Park Brewery,470 Prospect Village Dr.,Estes Park,Colorado,40.3707,-105.52600000000001,http://www.epbrewery.net/
+Estes Park Brewery,470 Prospect Village Dr.,Estes Park,Colorado,40.3707,-105.526,http://www.epbrewery.net/
 Etna Brewing,131 Callahan,Etna,California,41.4559,-122.846,
 F.X. Matt Brewing,811 Edward Street,Utica,New York,43.1045,-75.2452,http://www.saranac.com
 Far West Ireland Brewing,,Redmond,Washington,47.6701,-122.118,
 Fauerbach Brewing Company,1714 Camus Lane,Madison,Wisconsin,43.0844,-89.4761,http://www.fauerbachbrewery.com/
 Faultline Brewing #1,1235 Oakmead Parkway,Sunnyvale,California,37.387,-121.993,
-Faultline Brewing #2,,Walnut Creek,California,37.8855,-122.03299999999999,
-Fifty Fifty Brewing Co.,11197 Brockway Road,Truckee,California,39.321999999999996,-120.163,http://www.fiftyfiftybrewing.com/
+Faultline Brewing #2,,Walnut Creek,California,37.8855,-122.033,
+Fifty Fifty Brewing Co.,11197 Brockway Road,Truckee,California,39.322,-120.163,http://www.fiftyfiftybrewing.com/
 Firehouse Brewery & Restaurant,,Red Oak,Iowa,41.0117,-95.2272,
 Firehouse Brewing,610 Main Street,Rapid City,South Dakota,44.0812,-103.227,
 Firehouse Grill & Brewery,111 South Murphy Avenue,Sunnyvale,California,37.3775,-122.03,
@@ -296,10 +296,10 @@ Full Sail Brewing #1,506 Columbia Street,Hood River,Oregon,45.7103,-121.515,
 G. Heileman Brewing,,La Crosse,Wisconsin,43.8014,-91.2396,
 Gaslight Brewery,15 South Orange Avenue,South Orange,New Jersey,40.7465,-74.2594,
 Glacial Lakes Brewing,,New York Mills,Minnesota,46.518,-95.3761,
-Glacier Brewhouse,"737 W. 5th Ave., Suite 110",Anchorage,Alaska,61.2179,-149.89600000000002,http://www.glacierbrewhouse.com/
-Glen Ellyn Sports Brew,,Glen Ellyn,Illinois,41.8775,-88.06700000000001,
+Glacier Brewhouse,"737 W. 5th Ave., Suite 110",Anchorage,Alaska,61.2179,-149.896,http://www.glacierbrewhouse.com/
+Glen Ellyn Sports Brew,,Glen Ellyn,Illinois,41.8775,-88.067,
 Glenwood Canyon Brewing Company,402 Seventh Street,Glenwood Springs,Colorado,39.5476,-107.323,
-Golden City Brewery,920 Twelfth Street,Golden,Colorado,39.7546,-105.22399999999999,
+Golden City Brewery,920 Twelfth Street,Golden,Colorado,39.7546,-105.224,
 Golden Gate Park Brewery,,San Francisco,California,37.7749,-122.419,
 Golden Pacific Brewing,,Berkeley,California,37.8716,-122.273,
 Golden Prairie Brewing,2536 North Elston Avenue,Chicago,Illinois,41.9273,-87.6807,
@@ -307,43 +307,43 @@ Golden Valley Brewery and Pub,980 NE Fourth Street,McMinnville,Oregon,45.2104,-1
 Goose Island Beer Company - Clybourn,1800 North Clybourn Avenue,Chicago,Illinois,41.9137,-87.6543,
 Goose Island Beer Company - Fulton Street,1800 West Fulton Street,Chicago,Illinois,41.8871,-87.6721,
 Gordash Brewing Company,3804 S.W 30th Ave,Fort Lauderdale,Florida,26.0745,-80.1806,http://holymackerelbeers.com/
-Gordon Biersch Brewing,357 East Taylor Street,San Jose,California,37.3526,-121.89299999999999,http://www.gordonbiersch.com/brewery
+Gordon Biersch Brewing,357 East Taylor Street,San Jose,California,37.3526,-121.893,http://www.gordonbiersch.com/brewery
 Gore Range Brewery,105 Edwards Village Boulevard,Edwards,Colorado,39.6441,-106.596,
 Gottberg Brew Pub,2804 13th Street,Columbus,Nebraska,41.4295,-97.3623,
 Govnor's Public House,220 North Randall Road,Lake In The Hills,Illinois,42.1779,-88.3377,
 Grand Lake Brewing,915 Grand Avenue,Grand Lake,Colorado,40.2518,-105.82,
-Grand Teton Brewing #1,1295 North West Street,Wilson,Wyoming,43.4988,-110.87700000000001,
-Grand Teton Brewing #2,430 Old Jackson Highway,Victor,Idaho,43.5984,-111.10799999999999,http://www.grandtetonbrewing.com/
+Grand Teton Brewing #1,1295 North West Street,Wilson,Wyoming,43.4988,-110.877,
+Grand Teton Brewing #2,430 Old Jackson Highway,Victor,Idaho,43.5984,-111.108,http://www.grandtetonbrewing.com/
 Granite City Food & Brewery - Omaha,1001 North 102nd Street,Omaha,Nebraska,41.2672,-96.0714,
 Granite City Food & Brewery - Saint Cloud,3945 Second Street South,Saint Cloud,Minnesota,45.5498,-94.2067,
 Gray Brewing,2424 West Court Street,Janesville,Wisconsin,42.6793,-89.0498,
-Great Basin Brewing Company,846 Victorian Ave,Sparks,Nevada,39.5349,-119.75399999999999,http://greatbasinbrewingco.com
+Great Basin Brewing Company,846 Victorian Ave,Sparks,Nevada,39.5349,-119.754,http://greatbasinbrewingco.com
 Great Bear Brewing,238 North Boundary Street,Wasilla,Alaska,61.5816,-149.439,
 Great Dane Pub and Brewing #1,123 East Doty Street,Madison,Wisconsin,43.0745,-89.3802,
 Great Dane Pub and Brewing #2,2980 Cahill Main,Fitchburg,Wisconsin,43.0177,-89.4232,
-Great Divide Brewing,2201 Arapahoe Street,Denver,Colorado,39.7539,-104.98899999999999,http://www.greatdivide.com/
+Great Divide Brewing,2201 Arapahoe Street,Denver,Colorado,39.7539,-104.989,http://www.greatdivide.com/
 Great Lakes Brewing,2516 Market Avenue,Cleveland,Ohio,41.4844,-81.7042,http://www.greatlakesbrewing.com
 Great Northern Tavern and Brewery,,Keystone,Colorado,39.6042,-105.948,
-Great Waters Brewing Company,426 St.Peter Street,Saint Paul,Minnesota,44.9467,-93.09700000000001,
+Great Waters Brewing Company,426 St.Peter Street,Saint Paul,Minnesota,44.9467,-93.097,
 Green Bay Brewing,313 Dousman Street,Green Bay,Wisconsin,44.5189,-88.0196,
-Green Flash Brewing,1430 Vantage Court #104A,Vista,California,33.135999999999996,-117.225,http://www.greenflashbrew.com
+Green Flash Brewing,1430 Vantage Court #104A,Vista,California,33.136,-117.225,http://www.greenflashbrew.com
 Green Mill Brewing - Saint Paul,57 Hamline Avenue South,Saint Paul,Minnesota,44.9398,-93.1568,
 Green Mountain Beverage,153 Pond Lane,Middlebury,Vermont,44.0344,-73.1735,http://www.gmbeverage.com/
 Greenshields Brewery and Pub,,Raleigh,North Carolina,35.7721,-78.6386,
 Grizzly Bay Brewing,,Suisun City,California,38.2382,-122.04,
 Grizzly Peak Brewing,120 West Washington Street,Ann Arbor,Michigan,42.2805,-83.749,
 Grumpy Troll Restaurant and Brewery,105 South Second Street,Mount Horeb,Wisconsin,43.0081,-89.7383,
-Hair of the Dog Brewing,4509 SE 23rd Avenue,Portland,Oregon,45.4901,-122.64299999999999,
+Hair of the Dog Brewing,4509 SE 23rd Avenue,Portland,Oregon,45.4901,-122.643,
 Hale's Ales #3,4301 Leary Way NW,Seattle,Washington,47.6592,-122.366,
 Half Moon Bay Brewing,390 Capistrano Road,Princeton by the Sea,California,37.4903,-122.435,
 Ham's Restaurant and Brewhouse,701 Evans Street,Greenville,North Carolina,35.6083,-77.3732,
 Hapa*s Brew Haus and Restaurant,,Kihei,Hawaii,20.7592,-156.457,
 Harbor City Brewing,535 West Grand Avenue,Port Washington,Wisconsin,43.3871,-87.8795,
-Harmon Brewing Company,1938 Pacific Avenue,Tacoma,Washington,47.2436,-122.43700000000001,http://harmon.harmonbrewingco.com/
+Harmon Brewing Company,1938 Pacific Avenue,Tacoma,Washington,47.2436,-122.437,http://harmon.harmonbrewingco.com/
 Harpoon Brewery - Boston,306 Northern Avenue,Boston,Massachusetts,42.3465,-71.0338,http://www.harpoonbrewery.com
-Harpoon Brewery - Windsor,336 Ruth Carney Drive,Windsor,Vermont,43.513000000000005,-72.4015,http://www.harpoonbrewery.com/
+Harpoon Brewery - Windsor,336 Ruth Carney Drive,Windsor,Vermont,43.513,-72.4015,http://www.harpoonbrewery.com/
 Harvest Moon Brewery / Cafe,392 George Street,New Brunswick,New Jersey,40.4962,-74.4441,
-Hawks Brewing,,Roseburg,Oregon,43.2165,-123.34200000000001,
+Hawks Brewing,,Roseburg,Oregon,43.2165,-123.342,
 HC Berger Brewing,,Fort Collins,Colorado,40.5853,-105.084,
 Heartland Brewery Union Square,,New York,New York,40.7323,-73.9874,http://www.heartlandbrewery.com/
 Heavenly Daze Brewery and Grill,,Denver,Colorado,39.7392,-104.985,
@@ -351,12 +351,12 @@ Heavyweight Brewing,,Ocean,New Jersey,39.9653,-74.3118,
 Hereford & Hops Restaurant and Brewpub #1,624 Ludington Street,Escanaba,Michigan,45.7458,-87.056,
 Hereford & Hops Steakhouse and Brewpub #3,2201 Sherman Street,Wausau,Wisconsin,44.9518,-89.6657,
 Herkimer Pub & Brewery,2922 Lyndale Avenue South,Minneapolis,Minnesota,44.9491,-93.2885,
-High Desert Brewing Co.,1201 W. Hadley Ave.,Las Cruces,New Mexico,32.3096,-106.79299999999999,http://www.highdesertbrewingco.com/
+High Desert Brewing Co.,1201 W. Hadley Ave.,Las Cruces,New Mexico,32.3096,-106.793,http://www.highdesertbrewingco.com/
 High Falls Brewing,445 St.Paul Street,Rochester,New York,43.1646,-77.6155,
 High Point Wheat Beer Company,22 Park Place,Butler,New Jersey,41.0016,-74.3403,http://www.ramsteinbeer.com/
 Highland Brewing Company,12 Old Charlotte Highway,Asheville,North Carolina,35.5716,-82.4991,http://www.highlandbrewing.com/
 Hoffbrau Steaks Brewery #1,,Addison,Texas,32.9618,-96.8292,
-Hoffbrau Steaks Brewery #2,,Dallas,Texas,32.803000000000004,-96.7699,
+Hoffbrau Steaks Brewery #2,,Dallas,Texas,32.803,-96.7699,
 Hook & Ladder Brewing Company,8113 Fenton St.,Silver Spring,Maryland,38.9911,-77.0237,http://www.hookandladderbeer.com
 Hoppers Seafood & Grill,890 East Fort Union Boulevard,Midvale,Utah,40.6215,-111.866,
 Hoppin Frog Brewery,1680-F East Waterloo Rd.,Akron,Ohio,41.0247,-81.4676,http://www.hoppinfrog.com/
@@ -365,11 +365,11 @@ Hops Grillhouse & Brewery - Cherry Creek,149 Steele Street,Denver,Colorado,39.71
 Hops Haven Brew Haus,1327 North 14th Street,Sheboygan,Wisconsin,43.7594,-87.7228,
 HopTown Brewing,3015-D Hopyard Road,Pleasanton,California,37.677,-121.898,
 Hopworks Urban Brewery,2944 SE Powell Blvd,Portland,Oregon,45.4969,-122.635,http://hopworksbeer.com/
-Hornsby's Pubdrafts Ltd.,600 Yosemite Boulevard,Modesto,California,37.6345,-120.98200000000001,
+Hornsby's Pubdrafts Ltd.,600 Yosemite Boulevard,Modesto,California,37.6345,-120.982,
 Hubcap Brewery and Kitchen,,Vail,Colorado,39.6403,-106.374,
 Hudepohl-Schoenling Brewing,"10921 Reed Hartman Highway, Suite 329",Cincinnati,Ohio,39.2651,-84.3799,
 Humboldt Brewing,856 10th Street,Arcata,California,40.87,-124.087,http://www.humboldtbrews.com/
-Idaho Brewing,,Idaho Falls,Idaho,43.4666,-112.03399999999999,
+Idaho Brewing,,Idaho Falls,Idaho,43.4666,-112.034,
 Illinois Brewing,102 North Center Street #111,Bloomington,Illinois,40.4787,-88.9946,
 Independence Brew Pub,1150 Filbert Street,Philadelphia,Pennsylvania,39.9526,-75.1594,http://www.independencebrewpub.com/
 Independence Brewing Co,3913 Todd Lane #607,Austin,Texas,30.2131,-97.7358,http://www.independencebrewing.com/
@@ -381,12 +381,12 @@ Iron Springs Pub & Brewery,765 Center Boulevard,Fairfax,California,37.986,-122.5
 Issaquah Brewhouse,35-C West Sunset Way,Issaquah,Washington,47.53,-122.037,
 Ithaca Beer Company,600 Elmira Road,Ithaca,New York,42.4145,-76.5315,
 Jack Russell Brewing,2380 Larsen Drive,Camino,California,38.7563,-120.679,
-Jack Russell Brewing,2380 Larsen Drive,Camino,California,49.1482,-122.86200000000001,
+Jack Russell Brewing,2380 Larsen Drive,Camino,California,49.1482,-122.862,
 Jack's Brewing,39176 Argonaut Way,Fremont,California,37.5441,-121.988,
 Jacob Leinenkugel Brewing Company,1 Jefferson Avenue,Chippewa Falls,Wisconsin,44.9449,-91.3968,http://www.leinie.com/welcome.html
 Jaipur Restaurant and Brewpub,10922 Elm Street,Omaha,Nebraska,41.2328,-96.0825,
 James Page Brewing,1500 Jackson Street,Minneapolis,Minnesota,45.0039,-93.2502,
-Jarre Creek Ranch Brewing,,Castle Rock,Colorado,39.3722,-104.85600000000001,
+Jarre Creek Ranch Brewing,,Castle Rock,Colorado,39.3722,-104.856,
 Jasper Ridge Brewery,1075 Country Lane,Ishpeming,Michigan,46.5015,-87.679,
 JJ Bitting Brewing,33 Main Street,Woodbridge,New Jersey,40.5549,-74.2771,
 Jobber's Canyon Restaurant & Brewery,,Omaha,Nebraska,41.254,-95.9993,
@@ -395,11 +395,11 @@ John Harvard's Brew House - Framingham,1 Worcester Road,Framingham,Massachusetts
 John Harvard's Brew House - Harvard Square,33 Dunster Street,Cambridge,Massachusetts,42.3724,-71.1193,
 John Harvard's Brewhouse - Wilmington,,Wilmington,Delaware,39.7458,-75.5467,
 Jolly Pumpkin Artisan Ales,3115 Broad Street,Dexter,Michigan,42.3375,-83.8895,http://www.jollypumpkin.com
-Joshua Huddy's Brew Pub and Grill,,Toms River,New Jersey,39.9529,-74.20100000000001,
+Joshua Huddy's Brew Pub and Grill,,Toms River,New Jersey,39.9529,-74.201,
 JT Whitney's Brewpub and Eatery,674 South Whitney Way,Madison,Wisconsin,43.0519,-89.4737,
 Jurupa Valley Brewing,,Riverside,California,33.9533,-117.396,
 Kalamazoo Brewing,355 East Kalamazoo Avenue,Kalamazoo,Michigan,42.2949,-85.5788,
-Karl Strauss Brewery Gardens - Sorrento Mesa,9675 Scranton Road,San Diego,California,32.8969,-117.20100000000001,
+Karl Strauss Brewery Gardens - Sorrento Mesa,9675 Scranton Road,San Diego,California,32.8969,-117.201,
 Keg Microbrewery & Restaurant,,Stevens Point,Wisconsin,44.5236,-89.5746,
 Kelmer's Brewhouse,,Santa Rosa,California,38.4405,-122.714,
 Kentucky Hemp Beer Company,,Lexington,Kentucky,38.0317,-84.4951,
@@ -418,7 +418,7 @@ Lake Placid Pub & Brewery,813 Mirror Lake Drive,Lake Placid,New York,44.2829,-73
 Lake Superior Brewing,2711 West Superior Street,Duluth,Minnesota,46.7611,-92.1319,
 Lakefront Brewery,1872 North Commerce Street,Milwaukee,Wisconsin,43.0547,-87.9053,http://www.lakefrontbrewery.com/index.html
 Lancaster Brewing Co.,302 N. Plum St.,Lancaster,Pennsylvania,40.0438,-76.2984,http://www.lancasterbrewing.com/index.html
-Lang Creek Brewry,655 Lang Creek Road,Marion,Montana,48.013999999999996,-115.01100000000001,http://langcreekbrewery.com/
+Lang Creek Brewry,655 Lang Creek Road,Marion,Montana,48.014,-115.011,http://langcreekbrewery.com/
 Latrobe Brewing,,Latrobe,Pennsylvania,40.3212,-79.3795,
 Laughing Dog Brewing,55 Emerald Industrial Park Road,Ponderay,Idaho,48.3003,-116.538,http://www.laughingdogbrewing.com/
 Lazy Magnolia Brewing Company,7030 Roscoe Turner Rd,Kiln,Mississippi,30.3764,-89.4497,http://www.lazymagnolia.com/
@@ -449,21 +449,21 @@ Magnolia Pub and Brewery,1398 Haight Street,San Francisco,California,37.7702,-12
 Main Street Alehouse,333 North Main Avenue,Gresham,Oregon,45.5001,-122.431,
 Main Street Beer Company #1,,Richmond,Virginia,37.543,-77.4691,
 Main Street Brewery,300 North Main Street,Corona,California,33.8835,-117.565,
-Main Street Brewing,,Dallas,Texas,32.803000000000004,-96.7699,
+Main Street Brewing,,Dallas,Texas,32.803,-96.7699,
 "Main Street Station Casino, Brewery and Hotel",200 North Main Street,Las Vegas,Nevada,36.1755,-115.145,
-Mambo Beer,10920 North Port Washington Road,Mequon,Wisconsin,43.2167,-87.92399999999999,
-Mammoth Brewing,24 Lake Mary Road,Mammoth Lakes,California,37.6484,-118.98299999999999,
+Mambo Beer,10920 North Port Washington Road,Mequon,Wisconsin,43.2167,-87.924,
+Mammoth Brewing,24 Lake Mary Road,Mammoth Lakes,California,37.6484,-118.983,
 Manayunk Brewery and Restaurant,4120 Main Street,Philadelphia,Pennsylvania,40.0236,-75.2202,http://www.manayunkbrewery.com/
 Manhattan Beach Brewing,124 Manhattan Beach Boulevard,Manhattan Beach,California,33.8844,-118.411,
 Marble Brewery,111 Marble Ave NW,Albuquerque,New Mexico,35.0928,-106.647,http://marblebrewery.com/
 Margaritaville Brewing Company,,Jacksonville,Florida,30.3617,-81.6966,http://www.landsharklager.com/
-Marin Brewing,1809 Larkspur Landing Circle,Larkspur Landing,California,37.9479,-122.51100000000001,
-Maritime Pacific Brewing,1514 NW Leary Way,Seattle,Washington,47.6637,-122.37700000000001,
+Marin Brewing,1809 Larkspur Landing Circle,Larkspur Landing,California,37.9479,-122.511,
+Maritime Pacific Brewing,1514 NW Leary Way,Seattle,Washington,47.6637,-122.377,
 Marquette Harbor Brewery and Restaurant,119 South Front Street,Marquette,Michigan,46.5431,-87.3929,
 Marshall Brewing Company,618 S. Wheeling Ave,Tulsa,Oklahoma,36.152,-95.9647,http://marshallbrewing.com
 Marzoni's Brick Oven & Brewing Co,165 Patchway Road,Duncansville,Pennsylvania,40.4234,-78.4339,http://www.marzonis.com/
 Mash House Restaurant and Brewery,4150 Sycamore Dairy Road,Fayetteville,North Carolina,35.0707,-78.9545,
-Maui Brewing Co.,4405 Honoapiilani Highway #217,"Lahaina, Maui",Hawaii,20.9721,-156.67700000000002,http://mauibrewingco.com/
+Maui Brewing Co.,4405 Honoapiilani Highway #217,"Lahaina, Maui",Hawaii,20.9721,-156.677,http://mauibrewingco.com/
 Maumee Bay Brewing,27 Broadway,Toledo,Ohio,41.6432,-83.5384,
 McCoy's Public House and Brewkitchen,4057 Pennsylvania Avenue,Kansas City,Missouri,39.0534,-94.5919,
 McGuire's Irish Pub and Brewery - Pensacola,600 East Gregory Street,Pensacola,Florida,30.4181,-87.2024,
@@ -472,10 +472,10 @@ McMenamins Mill Creek,13300 Bothell-Everett Highway #304,Mill Creek,Washington,4
 Mehana Brewing,275 East Kawili Street,Hilo,Hawaii,19.706,-155.069,
 Mendocino Brewing - Hopland,13351 Highway 101,Hopland,California,38.9734,-123.116,
 Mendocino Brewing - Saratoga Springs,,Saratoga Springs,New York,43.0831,-73.7846,http://www.mendobrew.com/
-Mendocino Brewing - Ukiah,1601 Airport Road,Ukiah,California,39.1326,-123.20100000000001,
+Mendocino Brewing - Ukiah,1601 Airport Road,Ukiah,California,39.1326,-123.201,
 Mercury Brewing Company,23 Hayward St.,Ipswich,Massachusetts,42.6728,-70.844,http://www.mercurybrewing.com
-Metropolitan Brewing,"5121 N Ravenswood Ave,",Chicago,Illinois,41.975,-87.67399999999999,http://www.metrobrewing.com/
-Mia and Pia's Pizzeria and Brewhouse,3545 Summers Lane (restaurant),Klamath Falls,Oregon,42.2249,-121.78200000000001,
+Metropolitan Brewing,"5121 N Ravenswood Ave,",Chicago,Illinois,41.975,-87.674,http://www.metrobrewing.com/
+Mia and Pia's Pizzeria and Brewhouse,3545 Summers Lane (restaurant),Klamath Falls,Oregon,42.2249,-121.782,
 Michigan Brewing,1093 Highview Drive,Webberville,Michigan,42.6616,-84.1946,http://www.michiganbrewing.com/
 Mickey Finn's Brewery,412 North Milwaukee Avenue,Libertyville,Illinois,42.2872,-87.9538,
 Mickey's Brewing Co.,,Milwaukee,Wisconsin,43.0389,-87.9065,http://www.mickeys.com
@@ -483,7 +483,7 @@ Middle Ages Brewing,120 Wilkinson Street,Syracuse,New York,43.0508,-76.1617,http
 Midnight Sun Brewing Co.,8111 Dimond Hook Drive,Anchorage,Alaska,61.1473,-149.844,http://www.midnightsunbrewing.com/
 Milagro Brewery and Grill,,Bernalillo,New Mexico,35.3,-106.551,
 Mill Creek Brewpub,11 North Palouse,Walla Walla,Washington,46.0697,-118.336,
-Mill Steakhouse,5798 South Rapp Street,Littleton,Colorado,39.611999999999995,-105.01899999999999,
+Mill Steakhouse,5798 South Rapp Street,Littleton,Colorado,39.612,-105.019,
 Miller Brewing,3939 W. Highland Blvd,Milwaukee,Wisconsin,43.0445,-87.9626,http://www.millerbrewing.com
 Millrose Brewing,45 South Barrington Road,South Barrington,Illinois,42.0855,-88.1411,
 Millstream Brewing,835 48th Avenue,Amana,Iowa,41.7972,-91.8652,
@@ -499,18 +499,18 @@ Moab Brewery,686 South Main Street,Moab,Utah,38.5657,-109.55,
 Mogollon Brewing Company,4366 Huntington Dr,Flagstaff,Arizona,35.2156,-111.59,http://www.mogbrew.com/
 Montana Brewing,113 North Broadway,Billings,Montana,45.7822,-108.506,
 Monte Carlo Casino and Brewpub,,Las Vegas,Nevada,36.1286,-115.171,
-Moon River Brewing Company,21 W. Bay St.,Savannah,Georgia,32.080999999999996,-81.0915,http://www.moonriverbrewing.com/
-Moonlight Brewing,PO Box 316,Fulton,California,38.498000000000005,-122.78,
+Moon River Brewing Company,21 W. Bay St.,Savannah,Georgia,32.081,-81.0915,http://www.moonriverbrewing.com/
+Moonlight Brewing,PO Box 316,Fulton,California,38.498,-122.78,
 Moose's Tooth Pub and Pizzeria,3300 Old Seward Highway,Anchorage,Alaska,61.1902,-149.869,http://www.moosestooth.net/
 Moosejaw Pizza & Dells Brewing Company,110 Wisconsin Dells Parkway South,Wisconsin Dells,Wisconsin,43.5907,-89.7939,
 Mountain Sun Pub & Brewery,1535 Pearl Street,Boulder,Colorado,40.019,-105.275,
 Moylan's Brewery & Restaurant,15 Rowland Way,Novato,California,38.0941,-122.557,http://www.moylans.com/
 moylans Brewing company,,Novato,California,38.1074,-122.57,http://www.moylans.com/
-Mudshark Brewing,210 Swanson Avenue,Lake Havasu City,Arizona,34.4686,-114.34100000000001,http://www.mudsharkbrewingco.com/
+Mudshark Brewing,210 Swanson Avenue,Lake Havasu City,Arizona,34.4686,-114.341,http://www.mudsharkbrewingco.com/
 Murphy's Wagon Wheel,107 North Lincoln Avenue,Hastings,Nebraska,40.5843,-98.3912,
 Namaqua Brewing,,Loveland,Colorado,40.3978,-105.075,
 Nebraska Brewing Company,7474 Towne Center Parkway #101,Papillion,Nebraska,41.1339,-96.0307,
-Nebraska Brewing Company,7474 Towne Center Parkway #101,Papillion,Nebraska,37.244,-107.87899999999999,
+Nebraska Brewing Company,7474 Towne Center Parkway #101,Papillion,Nebraska,37.244,-107.879,
 New Albanian Brewing,3312 Plaza Drive,New Albany,Indiana,38.3281,-85.8171,http://www.newalbanian.com
 New Belgium Brewing,500 Linden Street,Fort Collins,Colorado,40.5929,-105.07,http://www.newbelgium.com/
 New Century Brewing Company,PO Box 1498,Boston,Massachusetts,42.3587,-71.0574,
@@ -535,7 +535,7 @@ Oaken Barrel Brewing,50 North Airport Parkway,Greenwood,Indiana,39.615,-86.0901,
 Oasis Brewery and Restaurant,,Boulder,Colorado,40.015,-105.271,
 Oasis Brewery Annex,,Boulder,Colorado,40.015,-105.271,
 Oconomowoc Brewing,,Oconomowoc,Wisconsin,43.1117,-88.4993,
-Odell Brewing,800 East Lincoln Avenue,Fort Collins,Colorado,40.5894,-105.06299999999999,
+Odell Brewing,800 East Lincoln Avenue,Fort Collins,Colorado,40.5894,-105.063,
 Oggi's Pizza and Brewing - Vista,425 South Melrose Drive,Vista,California,33.2029,-117.255,
 Ohio Brewing,,Niles,Ohio,41.1828,-80.7654,
 Old City Brewing,603 West 13th Street #1A-345,Austin,Texas,30.2767,-97.7463,
@@ -544,16 +544,16 @@ Old Hat Brewery,114 North Main Street,Lawton,Michigan,42.1682,-85.8497,
 Olde Main Brewing,316 Main Street,Ames,Iowa,42.0248,-93.6147,
 Olde Peninsula Brewpub and Restaurant,200 East Michigan Avenue,Kalamazoo,Michigan,42.2936,-85.5778,
 Oldenberg Brewery,,Fort Mitchell,Kentucky,39.0472,-84.5599,
-On Tap Bistro & Brewery,,San Diego,California,32.7153,-117.15700000000001,
+On Tap Bistro & Brewery,,San Diego,California,32.7153,-117.157,
 Onion Pub & Brewery,22221 Pepper Road,Lake Barrington,Illinois,42.1865,-88.1835,
 Onopa Brewing,,Milwaukee,Wisconsin,43.0389,-87.9065,
 Orchard Street Brewery,,Bellingham,Washington,48.7596,-122.488,
-Oregon Trader Brewing,,Albany,Oregon,44.6365,-123.10600000000001,
-Oregon Trail Brewery,341 SW Second Street,Corvallis,Oregon,44.5613,-123.26100000000001,
+Oregon Trader Brewing,,Albany,Oregon,44.6365,-123.106,
+Oregon Trail Brewery,341 SW Second Street,Corvallis,Oregon,44.5613,-123.261,
 Original Basil T's,183 Riverside Avenue,Red Bank,New Jersey,40.3532,-74.0747,
 Orlando Brewing,1301 Atlanta Avenue,Orlando,Florida,28.5265,-81.3827,http://www.orlandobrewing.com
 Orlio Organic,5 Bartlett Bay Road,South Burlington,Vermont,44.4284,-73.2131,http://www.orlio.net/
-Oskar Blues Grill and Brew,303 Main Street,Lyons,Colorado,40.2246,-105.26799999999999,http://www.oskarblues.com/
+Oskar Blues Grill and Brew,303 Main Street,Lyons,Colorado,40.2246,-105.268,http://www.oskarblues.com/
 Otter Creek Brewing & Wolaver's Organic Ales,793 Exchange Street,Middlebury,Vermont,44.0197,-73.1693,http://www.ottercreekbrewing.com/
 Otto's Pub and Brewery,2105 N. Atherton St.,State College,Pennsylvania,40.8098,-77.9101,http://www.ottospubandbrewery.com/index.php
 Oyster Bar Bistro and Brewery,,Fort Wayne,Indiana,41.1475,-85.1168,
@@ -583,7 +583,7 @@ Pizza Beer,5N404 Harvest Lane,St Charles,Illinois,41.9455,-88.4507,http://www.ma
 Pizza Port Brewing - Solana Beach,135 North Highway 101,Solana Beach,California,32.9908,-117.272,http://www.pizzaport.com
 Pizzeria Uno Chicago Grill & Brewery,61 US Highway 1 South,Metuchen,New Jersey,37.2283,-77.3903,
 Platte Valley Brewing,14 East Railroad,Kearney,Nebraska,40.6954,-99.0812,
-Pleasanton Main Street Brewery,830 Main Street,Pleasanton,California,37.6645,-121.87299999999999,
+Pleasanton Main Street Brewery,830 Main Street,Pleasanton,California,37.6645,-121.873,
 Pony Express Brewing,,Olathe,Kansas,38.8814,-94.8191,
 Port Brewing Company,155 Mata Way Suite 104,San Marcos,California,33.1406,-117.15,http://www.portbrewing.com/
 Port Washington Brewing,,Port Washington,Wisconsin,43.3872,-87.8756,
@@ -592,7 +592,7 @@ Portland Brewing,2730 NW 31st Avenue,Portland,Oregon,45.5415,-122.713,
 Portsmouth Brewery,56 Market Street,Portsmouth,New Hampshire,43.0781,-70.7575,http://www.portsmouthbrewery.com/
 Prairie Rock Brewing - Elgin,127 South Grove Avenue,Elgin,Illinois,42.0347,-88.2819,
 Prescott Brewing Company,130 W Gurley St,Prescott,Arizona,34.542,-112.47,http://prescottbrewingcompany.com/
-Pug Ryan's Steakhouse and Brewery,104 Village Place,Dillon,Colorado,39.6282,-106.04700000000001,
+Pug Ryan's Steakhouse and Brewery,104 Village Place,Dillon,Colorado,39.6282,-106.047,
 Pugsley Brewing LLC,,Portland,Maine,43.6615,-70.2553,
 Pumphouse Brewery & Restaurant,540 Main Street,Longmont,Colorado,40.1688,-105.102,
 Pumphouse Pizza and Brewing,,Lake Delton,Wisconsin,43.6011,-89.7937,
@@ -600,49 +600,49 @@ Pumphouse Pizza and Brewing,,Lake Delton,Wisconsin,43.6011,-89.7937,
 "Pyramid Alehouse, Brewery and Restaurant - Berkeley",901 Gilman Street,Berkeley,California,37.8806,-122.3,
 Pyramid Ales Brewery,91 S Royal Brougham Way,Seattle,Washington,47.5924,-122.334,http://www.pyramidbrew.com/
 Quigleys,257 Willbrook Blvd,Pawleys Island,South Carolina,33.4905,-79.116,
-Raccoon Lodge and Brewpub / Cascade Brewing,7424 SW Beaverton-Hillsdale Hwy,Portland,Oregon,45.4856,-122.75399999999999,http://www.raclodge.com/
+Raccoon Lodge and Brewpub / Cascade Brewing,7424 SW Beaverton-Hillsdale Hwy,Portland,Oregon,45.4856,-122.754,http://www.raclodge.com/
 Raccoon River Brewing,200 North Tenth Street,Des Moines,Iowa,41.5841,-93.6296,
 Rahr & Sons Brewing Company,701 Galveston Ave,Fortworth,Texas,32.7366,-97.3274,http://www.rahrbrewery.com/
 Rail House Restaurant and Brewpub,2029 Old Peshtigo Road,Marinette,Wisconsin,45.0851,-87.6544,
 Railway Brewing,,Anchorage,Alaska,61.2181,-149.9,
-Ramapo Valley Brewery,143 Highway 59 Building 6,Hillburn,New York,41.1151,-74.14699999999999,
+Ramapo Valley Brewery,143 Highway 59 Building 6,Hillburn,New York,41.1151,-74.147,
 Randy's Fun Hunters Brewery Restaurant and Banquet Center,841 East Milwaukee Street,Whitewater,Wisconsin,42.832,-88.714,
-Real Ale Brewing Company,231 San Saba Court,Blanco,Texas,30.113000000000003,-98.4156,http://www.realalebrewing.com/
+Real Ale Brewing Company,231 San Saba Court,Blanco,Texas,30.113,-98.4156,http://www.realalebrewing.com/
 ReaperAle,,Foothill Ranch,California,33.6864,-117.66,
 Red Kettle Brewing,,Encinitas,California,33.037,-117.292,
-Red Lodge Ales,417 North Broadway,Red Lodge,Montana,45.1913,-109.24700000000001,
+Red Lodge Ales,417 North Broadway,Red Lodge,Montana,45.1913,-109.247,
 Red Oak Brewery,6901 Konica Drive,Whitsett,North Carolina,36.0613,-79.5695,http://www.redoakbrewery.com
 Red Star Brewery & Grille,101 Ehalt St.,Greensburg,Pennsylvania,40.3044,-79.5471,http://www.redstarbrewery.com/
 RedFish New Orleans Brewhouse,2027 13th Street,Boulder,Colorado,40.0187,-105.279,
-Redhook Ale Brewery,,Seattle,Washington,47.6062,-122.33200000000001,http://www.redhook.com/
+Redhook Ale Brewery,,Seattle,Washington,47.6062,-122.332,http://www.redhook.com/
 Remington Watson Smith Brewing,,Waukesha,Wisconsin,43.0117,-88.2315,
 Revolution Brewing LLC,2323 N Milwaukee Ave,Chicago,Illinois,41.9234,-87.6982,http://revbrew.com/
 Richbrau Brewing Company,1214 East Cary St,Richmond,Virginia,37.5356,-77.4338,http://www.richbrau.com/
-Rio Salado Brewing,,Tempe,Arizona,33.4148,-111.90899999999999,
+Rio Salado Brewing,,Tempe,Arizona,33.4148,-111.909,
 River Horse Brewing Company,80 LAMBERT LANE,Lambertville,New Jersey,40.3688,-74.9477,http://www.riverhorse.com
 River West Brewing,,Chicago,Illinois,41.85,-87.6501,
-Rivers Effortless Dining,,Salt Lake City,Utah,40.638000000000005,-111.69,
+Rivers Effortless Dining,,Salt Lake City,Utah,40.638,-111.69,
 Rivertowne Pour House,312 Center Rd,Monroeville,Pennsylvania,40.4465,-79.7642,http://www.myrivertowne.com/
 Rock Art Brewery,254 Wilkins Street,Morrisville,Vermont,44.5693,-72.6034,http://www.rockartbrewery.com/
 Rock Bottom Restaurant & Brewery - Chicago,1 West Grand Avenue,Chicago,Illinois,41.8915,-87.6284,
 Rock Bottom Restaurant & Brewery - Denver,1001 16th Street #A-100,Denver,Colorado,39.7472,-104.995,
 Rock Bottom Restaurant & Brewery - Milwaukee,740 North Plankinton Avenue,Milwaukee,Wisconsin,43.0399,-87.9117,
 Rock Bottom Restaurant & Brewery - Minneapolis,800 LaSalle Plaza,Minneapolis,Minnesota,44.9765,-93.2747,
-Rock Bottom Restaurant & Brewery - San Jose,1875 South Bascom Avenue #700,Campbell,California,37.2886,-121.93299999999999,
+Rock Bottom Restaurant & Brewery - San Jose,1875 South Bascom Avenue #700,Campbell,California,37.2886,-121.933,
 Rock Bottom Restaurant & Brewery - South Denver,9627 East County Line Road,Englewood,Colorado,39.5678,-104.874,
-Rocky River Brewing,21290 Center Ridge Road,Rocky River,Ohio,41.4623,-81.85600000000001,
+Rocky River Brewing,21290 Center Ridge Road,Rocky River,Ohio,41.4623,-81.856,
 Rockyard Brewing,880 West Castleton Road,Castle Rock,Colorado,39.4091,-104.87,
 Roffey Brewery,,Holland,Michigan,42.7875,-86.1089,
 Rogue Ales,2320 SE OSU Drive,Newport,Oregon,44.6202,-124.052,http://www.rogue.com
 Roost Brewery,200 East Campbell Avenue,Campbell,California,37.2869,-121.946,
-Roots Organic Brewing,1520 SE Seventh Avenue,Portland,Oregon,45.5118,-122.65899999999999,
+Roots Organic Brewing,1520 SE Seventh Avenue,Portland,Oregon,45.5118,-122.659,
 Ross Valley Brewing,,Fairfax,California,37.9871,-122.589,
-Rothaus Brauerei,,Hartford,Wisconsin,43.3178,-88.37899999999999,
+Rothaus Brauerei,,Hartford,Wisconsin,43.3178,-88.379,
 Route 66 Brewery,,Saint Louis,Missouri,38.647,-90.225,
 Routh Street Brewery and Grille,,Dallas,Texas,32.789,-96.7989,
 Rowland's Calumet Brewery,25 North Madison St,Chilton,Wisconsin,44.0291,-88.1629,http://rowlandsbrewery.com/
 Roy Pitz Brewing Company,140 North Third Street,Chambersburg,Pennsylvania,39.939,-77.6566,http://roypitz.com/
-Rubicon Brewing,2004 Capitol Avenue,Sacramento,California,38.5731,-121.48100000000001,
+Rubicon Brewing,2004 Capitol Avenue,Sacramento,California,38.5731,-121.481,
 Rush River Brewing,990 Antler Court,River Falls,Wisconsin,44.8902,-92.6378,
 Russian River Brewing,725 Fourth Street,Santa Rosa,California,38.4418,-122.712,http://www.russianriverbrewing.com/
 Sacramento Brewing Company,2713 El Paseo Lane,Sacramento,California,38.6191,-121.4,http://sacbrew.blogspot.com/
@@ -652,7 +652,7 @@ Saint Somewhere Brewing Company,1441 Savannah Ave Unit E,Tarpon Springs,Florida,
 Salado Creek Brewing Company,,San Antonio,Texas,29.4241,-98.4936,
 Salt Lake Brewing - Squatters,147 West Broadway,Salt Lake City,Utah,40.7626,-111.895,
 "Sam Choy's Breakfast, Lunch, Crab & Big Aloha Brewery",580 North Nimitz Highway,Honolulu,Hawaii,21.3069,-157.858,
-San Diego Brewing,10450-L Friars Road,San Diego,California,32.7922,-117.09899999999999,
+San Diego Brewing,10450-L Friars Road,San Diego,California,32.7922,-117.099,
 San Marcos Brewery & Grill,1080 West San Marcos Boulevard,San Marcos,California,33.1345,-117.191,
 Sand Creek Brewing Company,320 Pierce St,Black River Falls,Wisconsin,44.2929,-90.8511,http://www.sandcreekbrewing.com/
 SandLot Brewery at Coors Field,2145 Blake Street,Denver,Colorado,39.7557,-104.993,
@@ -662,12 +662,12 @@ Santa Cruz Brewing,,Santa Cruz,California,36.9741,-122.031,
 Santa Fe Brewing Company,35 Fire Place,Santa Fe,New Mexico,35.5966,-106.052,http://www.santafebrewing.com/
 Santa Rosa Brewing,,Santa Rosa,California,38.4405,-122.714,
 Saxer Brewing,,Lake Oswego,Oregon,45.4207,-122.671,
-Schooner Brewery,,Dallas,Texas,32.803000000000004,-96.7699,
-Schooner's Grille & Brewery,4250 Lone Tree Way,Antioch,California,37.9669,-121.78299999999999,
+Schooner Brewery,,Dallas,Texas,32.803,-96.7699,
+Schooner's Grille & Brewery,4250 Lone Tree Way,Antioch,California,37.9669,-121.783,
 Scuttlebutt Brewing,1524 West Marine View Drive,Everett,Washington,47.9975,-122.214,
 Sea Dog Brewing Company,26 Front Street,Bangor,Maine,44.7974,-68.77,http://www.seadogbrewing.com/
 Seabright Brewery,519 Seabright Avenue #107,Santa Cruz,California,36.9676,-122.008,
-Second Street Brewery,1814 Second Street,Santa Fe,New Mexico,35.6631,-105.96600000000001,http://www.secondstreetbrewery.com/
+Second Street Brewery,1814 Second Street,Santa Fe,New Mexico,35.6631,-105.966,http://www.secondstreetbrewery.com/
 Selin's Grove Brewing Co.,121 North Market St.,Selinsgrove,Pennsylvania,40.801,-76.8614,http://www.selinsgrovebrewing.com/
 Sequoia Brewing Conoabt,777 East Olive Avenue,Fresno,California,36.7582,-119.802,http://www.sequoiabrewing.com/
 Sharktooth Brewing,,Kahului,Hawaii,20.8947,-156.47,
@@ -679,24 +679,24 @@ Shmaltz Brewing Company,,San Francisco,California,37.7749,-122.419,http://www.sh
 Shmaltz Enterprises,3435 Cesar Chavez #227,San Francisco,California,37.7481,-122.419,
 Short's Brewing Company,121 N. Bridge Street,Bellaire,Michigan,44.9763,-85.2104,http://www.shortsbrewing.com
 Sierra Nevada Brewing Co.,1075 East 20th Street,Chico,California,39.7246,-121.816,http://www.sierranevada.com/
-Siletz Roadhouse & Brewery,243 North Gaither Street,Siletz,Oregon,44.722,-123.91799999999999,
+Siletz Roadhouse & Brewery,243 North Gaither Street,Siletz,Oregon,44.722,-123.918,
 Silver Gulch Brewing Company,2195 Old Steese Highway,Fox,Alaska,64.9583,-147.622,http://www.ptialaska.net/~gbrady/
-Silverado Brewing,3020 St. Helena Highway North,Saint Helena,California,38.5243,-122.49700000000001,
+Silverado Brewing,3020 St. Helena Highway North,Saint Helena,California,38.5243,-122.497,
 Sioux Falls Brewing,,Sioux Falls,South Dakota,43.55,-96.7003,
 Six Rivers Brewery,1300 Central Avenue,McKinleyville,California,40.9491,-124.102,http://www.sixriversbrewery.com/
 Sixpoint Craft Ales,40 Van Dyke St,Brooklyn,New York,40.674,-74.0118,http://www.sixpointcraftales.com/
 Skagit River Brewing,404 South Third Street,Mount Vernon,Washington,48.4192,-122.335,
 Slab City Brewing,,Bonduel,Wisconsin,44.7403,-88.4448,
-Sleeping Lady Brewing Company,717 W. 3rd Ave,Anchorage,Alaska,61.2196,-149.89600000000002,http://www.alaskabeers.com/
+Sleeping Lady Brewing Company,717 W. 3rd Ave,Anchorage,Alaska,61.2196,-149.896,http://www.alaskabeers.com/
 Sly Fox Brewhouse and Eatery - Phoenixville,519 Kimberton Road,Phoenixville,Pennsylvania,40.1298,-75.5499,http://www.slyfoxbeer.com/index1.asp
-Sly Fox Brewhouse and Eatery - Royersford,312 North Lewis Road,Royersford,Pennsylvania,40.1943,-75.53399999999999,http://www.slyfoxbeer.com/index1.asp
+Sly Fox Brewhouse and Eatery - Royersford,312 North Lewis Road,Royersford,Pennsylvania,40.1943,-75.534,http://www.slyfoxbeer.com/index1.asp
 Smoky Mountain Brewing,424 South Gay Street,Knoxville,Tennessee,35.9657,-83.9181,
 Smuttynose Brewing Co.,225 Heritage Ave,Portsmouth,New Hampshire,43.0325,-70.7948,http://www.smuttynose.com/
 Snake River Brewing,265 S. Millward,Jackson,Wyoming,43.4768,-110.765,http://www.snakeriverbrewing.com
 Snipes Mountain Microbrewery & Restaurant,905 Yakima Valley Highway,Sunnyside,Washington,46.3284,-120.008,
 Snowshoe Brewing - Sonora,,Sonora,California,37.9841,-120.382,
 Sockeye,3019 N Cole Rd,Boise,Idaho,43.6326,-116.275,
-Socorro Springs Brewing,1012 North California Street,Socorro,New Mexico,34.0701,-106.89299999999999,
+Socorro Springs Brewing,1012 North California Street,Socorro,New Mexico,34.0701,-106.893,
 Sonoran Brewing Company,10426 East Jomax Road,Scottsdale,Arizona,33.7268,-111.853,http://www.sonoranbrewing.com/
 South County Brewing Co.,104 Mill St.,Fawn Grove,Pennsylvania,39.7323,-76.4496,http://www.southcountybrewing.com/
 South Shore Brewery,808 West Main Street,Ashland,Wisconsin,46.5872,-90.8921,
@@ -706,14 +706,14 @@ Southern Star Brewing Company,1207 N. FM 3083 E.,Conroe,Texas,30.3489,-95.4427,h
 Southern Tier Brewing Co,2051A Stoneman Circle,Lakewood,New York,42.1008,-79.3357,http://www.southerntierbrewing.com/
 Spanish Peaks Brewing,Polson MT 59860,Polson,Montana,47.6959,-114.176,http://www.blackdogales.com/
 Speakeasy Ales and Lagers,1195-A Evans Avenue,San Francisco,California,37.7387,-122.381,
-Spilker Ales,300 West Fourth Street,Cortland,Nebraska,40.5058,-96.70700000000001,
+Spilker Ales,300 West Fourth Street,Cortland,Nebraska,40.5058,-96.707,
 Spoetzl Brewery,603 East Brewery Street,Shiner,Texas,29.426,-97.1607,http://www.shiner.com
 Sports City Cafe & Brewery,,La Jolla,California,33.8575,-117.876,
 Sprecher Brewing,701 West Glendale Avenue,Glendale,Wisconsin,43.1,-87.9198,http://www.sprecherbrewery.com/
 Spring House Brewing Company,2519 Main St.,Conestoga,Pennsylvania,39.9525,-76.3295,http://www.springhousebeer.com/
 Springfield Brewing,305 South Market Street,Springfield,Missouri,37.2079,-93.2955,
 St John Brewers,,St. John,Virgin Islands,18.3368,-64.7281,http://www.stjohnbrewers.com/index.html
-St. Stan's Brewing Co.,821 L Street,Modesto,California,37.6417,-121.00399999999999,http://www.ststans.com/
+St. Stan's Brewing Co.,821 L Street,Modesto,California,37.6417,-121.004,http://www.ststans.com/
 Standing Stone Brewing Company,101 Oak Street,Ashland,Oregon,42.1976,-122.715,http://www.standingstonebrewing.com/
 Steamworks Brewing - Durango,801 East Second Avenue,Durango,Colorado,37.2724,-107.88,
 Steel Brewing,,Longview,Texas,32.5007,-94.7405,
@@ -731,14 +731,14 @@ Stoudt's Brewery,2800 North Reading Road,Adamstown,Pennsylvania,40.2369,-76.072,
 Stout Brothers Public House,,Milwaukee,Wisconsin,43.0389,-87.9065,
 Straub Brewery,303 Sorg Street,St. Mary's,Pennsylvania,41.4277,-78.5539,http://www.straubbeer.com/index.htm
 Stroh Brewery Company,,Tampa,Florida,27.9494,-82.4651,
-Sturgeon Bay Brewing,,Sturgeon Bay,Wisconsin,44.8342,-87.37700000000001,
+Sturgeon Bay Brewing,,Sturgeon Bay,Wisconsin,44.8342,-87.377,
 Sudwerk Privatbrauerei Hbsch,2001 Second Street,Davis,California,38.5472,-121.726,
 Sullivan's Black Forest Brew Haus & Grill,281 Heinlein Strasse,Frankenmuth,Michigan,43.3152,-83.7314,
 Summit Brewing,910 Montreal Circle,Saint Paul,Minnesota,44.9139,-93.1396,http://www.summitbrewing.com/
 Surly Brewing,4811 Dusharme Drive,Brooklyn Center,Minnesota,45.0429,-93.3246,http://www.surlybrewing.com/
 Sweet Water Tavern and Brewery,45980 Waterview Plaza,Sterling,Virginia,39.0324,-77.4097,http://www.greatamericanrestaurants.com/sweetMainSter/index.htm
 Sweetwater Brewing - Atlanta,195 Ottley Drive,Atlanta,Georgia,33.8087,-84.3813,http://www.sweetwaterbrew.com/
-Sweetwater Brewing - Casper,,Casper,Wyoming,42.8666,-106.31299999999999,
+Sweetwater Brewing - Casper,,Casper,Wyoming,42.8666,-106.313,
 Sweetwater Tavern - Centreville,14250 Sweetwater Lane,Centreville,Virginia,38.8289,-77.4393,
 Switchback Brewing Co,PO Box 4210,Burlington,Vermont,43.3906,-79.8049,
 "T-Bonz Gill, Grill and Brewery",1028 Johnny Dodds Boulevard,Mount Pleasant,South Carolina,32.8091,-79.875,
@@ -748,7 +748,7 @@ Tailgate Beer,6648 Reservoir Ln,San Diego,California,32.7732,-117.055,http://www
 Tampa Bay Brewing,1812 North 15th Street,Tampa,Florida,27.9607,-82.4433,
 Tap Room Brewing Company,,La Crosse,Wisconsin,43.8014,-91.2396,http://www.taproom21.com/
 Taylor Brewing,717 East Butterfield Road,Lombard,Illinois,41.8358,-88.0091,
-Taylor's Restaurant and Brewery,,San Diego,California,32.7153,-117.15700000000001,
+Taylor's Restaurant and Brewery,,San Diego,California,32.7153,-117.157,
 Tenaya Creek Restaurant and Brewery,3101 North Tenaya Way,Las Vegas,Nevada,36.2154,-115.251,
 Terminal Gravity Brewing,803 SE School Street,Enterprise,Oregon,45.4192,-117.272,
 Terrapin Beer Company,196 Alps Road,Athens,Georgia,33.9459,-83.4105,http://www.terrapinbeer.com/
@@ -760,7 +760,7 @@ The Church Brew Works,3525 Liberty Avenue,Pittsburgh,Pennsylvania,40.4624,-79.96
 The Hop Yard,Bollinger Canyon Rd.,San Ramon,California,37.7839,-122.001,http://www.hopyard.com/
 The Livery,190 5th Street,Benton Harbor,Michigan,42.1185,-86.4537,http://liverybrew.com/
 The Lost Abbey,155 Mata Way Suite 104,San Marcos,California,33.1406,-117.15,http://www.lostabbey.com/
-The Narragansett Brewing Company,60 Ship Street,Providence,Rhode Island,41.818999999999996,-71.4097,http://www.narragansettbeer.com
+The Narragansett Brewing Company,60 Ship Street,Providence,Rhode Island,41.819,-71.4097,http://www.narragansettbeer.com
 The Round Barn Winery & Brewery,10983 Hills Road,Baroda,Michigan,41.9211,-86.4583,http://www.roundbarnwinery.com/brewery.php
 Third Street Ale Works,610 Third Street,Santa Rosa,California,38.4398,-122.713,http://www.thirdstreetaleworks.com
 Thirsty Dog Brewing,529 Grant St. Suite B,Akron,Ohio,41.0689,-81.5172,http://www.thirstydog.com
@@ -773,24 +773,24 @@ Three Needs Brewery and Taproom,207 College Street,Burlington,Vermont,44.4771,-7
 Thunder Canyon Brewery,7401 North La Cholla Boulevard,Tucson,Arizona,32.3407,-111.015,http://www.thundercanyonbrewery.com/
 Thunderhead Brewery,18 East 21st Street,Kearney,Nebraska,40.6966,-99.0815,
 Thunderhead Brewery #2,120 East Third Street,Grand Island,Nebraska,40.9259,-98.3397,
-Tied House Cafe & Brewery - San Jose,65 North San Pedro,San Jose,California,37.3362,-121.89399999999999,
+Tied House Cafe & Brewery - San Jose,65 North San Pedro,San Jose,California,37.3362,-121.894,
 Titletown Brewing,200 Dousman Street,Green Bay,Wisconsin,44.52,-88.0173,
 Tivoli Brewing,,Denver,Colorado,39.7392,-104.985,
-Tommyknocker Brewery and Pub,1401 Miner Street,Idaho Springs,Colorado,39.7418,-105.51799999999999,http://www.tommyknocker.com/
+Tommyknocker Brewery and Pub,1401 Miner Street,Idaho Springs,Colorado,39.7418,-105.518,http://www.tommyknocker.com/
 Top of the Hill Restaurant and Brewery,101 East Franklin Street,Chapel Hill,North Carolina,35.9132,-79.0558,
 Trade Winds Brewing,,Wailuku,Hawaii,20.8911,-156.505,
-Traffic Jam and Snug,4268 Second Street,Detroit,Michigan,42.351000000000006,-83.0665,
+Traffic Jam and Snug,4268 Second Street,Detroit,Michigan,42.351,-83.0665,
 Trailhead Brewing Company,921 South Riverside Drive,Saint Charles,Missouri,38.7745,-90.484,
 Trap Rock Restaurant and Brewery,279 Springfield Avenue,Berkeley Heights,New Jersey,40.6892,-74.4349,
 Trinity Brewing Company,1446 Garden of the Gods,Colorado Springs,Colorado,38.8967,-104.855,http://trinitybrew.com/
-Triple Rock Brewery,1920 Shattuck Avenue,Berkeley,California,37.8734,-122.26899999999999,
+Triple Rock Brewery,1920 Shattuck Avenue,Berkeley,California,37.8734,-122.269,
 Triumph Brewing of New Hope,400 Union Square,New Hope,Pennsylvania,40.3659,-74.9544,http://www.triumphbrewing.com/
 Triumph Brewing of Princeton,138 Nassau Street,Princeton,New Jersey,40.3507,-74.6583,
 Troegs Brewing,800 Paxton Street,Harrisburg,Pennsylvania,40.2559,-76.8715,http://www.troegs.com/
 Trout River Brewing,58 Broad Street,Lyndonville,Vermont,44.5203,-72.0014,http://www.troutriverbrewing.com/
 Tunner's Guild Brewing Systems,,Saint Paul,Minnesota,44.9442,-93.0861,
 Tuppers Hop Pocket Ale,6404 Redwing Road,Bethesda,Maryland,38.9735,-77.1272,
-Tustin Brewing,13011 Newport Avenue #100,Tustin,California,33.7496,-117.81200000000001,
+Tustin Brewing,13011 Newport Avenue #100,Tustin,California,33.7496,-117.812,
 Twin Ports Brewing,,Superior,Wisconsin,46.7208,-92.1041,
 Twin Rivers Brewing,104 North Lewis Street,Monroe,Washington,47.8559,-121.971,
 Twisted Pine Brewing Company,3201 Walnut Street Ste A,Boulder,Colorado,40.0201,-105.251,http://www.twistedpinebrewing.com/
@@ -800,7 +800,7 @@ TwoRows Restaurant & Brewery - Dallas,5500 Greenville Avenue #1300,Dallas,Texas,
 Tyranena Brewing,1025 Owen Street,Lake Mills,Wisconsin,43.0862,-88.8967,http://www.tyranena.com
 Uinta Brewing Compnay,1722 South Fremont Drive (2375 West),Salt Lake City,Utah,40.7326,-111.954,http://www.uintabrewing.com/
 Ukiah Brewing,102 South State Street,Ukiah,California,39.1498,-123.208,
-Umpqua Brewing,,Roseburg,Oregon,43.2165,-123.34200000000001,
+Umpqua Brewing,,Roseburg,Oregon,43.2165,-123.342,
 Union Barrel Works,6 N. Reamstown Road,Reamstown,Pennsylvania,40.2118,-76.1232,http://www.unionbarrelworks.com/
 Union Colony Brewery,,Greeley,Colorado,40.4233,-104.709,
 Upland Brewing,350 West Eleventh Street,Bloomington,Indiana,39.1733,-86.5369,http://www.uplandbeer.com
@@ -844,14 +844,14 @@ Wilmington Brewing,,Wilmington,North Carolina,34.2257,-77.9447,
 Wisconsin Brewing,,Wauwatosa,Wisconsin,43.0495,-88.0076,
 Wolf Pack Brewing,111 South Canyon Street,West Yellowstone,Montana,44.6584,-111.1,
 Wolf Tongue Brewery,35 E. First St.,Nederland,Colorado,39.9619,-105.51,
-Wynkoop Brewing,1634 18th Street,Denver,Colorado,39.7535,-104.99799999999999,http://www.wynkoop.com/
+Wynkoop Brewing,1634 18th Street,Denver,Colorado,39.7535,-104.998,http://www.wynkoop.com/
 Yakima Brewing and Malting / Grant's Ales,,Yakima,Washington,46.6021,-120.506,
 Yamhill Brewing,,Portland,Oregon,45.5235,-122.676,
 Yards Brewing,2439 Amber Street,Philadelphia,Pennsylvania,39.9831,-75.1274,
-Zea Rotisserie and Brewery,1525 St. Charles Avenue,New Orleans,Louisiana,29.9386,-90.07600000000001,http://www.zearestaurants.com
+Zea Rotisserie and Brewery,1525 St. Charles Avenue,New Orleans,Louisiana,29.9386,-90.076,http://www.zearestaurants.com
 Yegua Creek Brewing - Dallas,2920 North Henderson Ave,Dallas,Texas,32.821,-96.7848,
 Yuengling & Son Brewing,310 Mill Creek Avenue,Pottsville,Pennsylvania,40.7,-76.1747,http://www.yuengling.com
-Yellowstone Valley Brewing,2123 1st Avenue North,Billings,Montana,45.7861,-108.49799999999999,http://www.yellowstonevalleybrew.com
-Yazoo Brewing,910 Division St,Nashville,Tennessee,36.150999999999996,-86.7821,http://www.yazoobrew.com
+Yellowstone Valley Brewing,2123 1st Avenue North,Billings,Montana,45.7861,-108.498,http://www.yellowstonevalleybrew.com
+Yazoo Brewing,910 Division St,Nashville,Tennessee,36.151,-86.7821,http://www.yazoobrew.com
 Baxter Brewing,,Lewiston,Maine,44.1004,-70.2148,
 Aviator Brewing Company,209 Technology Park Lane,Fuquay Varina,North Carolina,35.6197,-78.8085,http://www.aviatorbrew.com/
