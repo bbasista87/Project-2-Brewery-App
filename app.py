@@ -36,6 +36,20 @@ class Beers(db.Model):
     def __repr__(self):
         return '<Beers %r>' % (self.name)
 
+class Brewery_Beer(db.Model):
+    __tablename__ = "brewery_beer"
+    id = db.Column(db.Integer, primary_key=True)
+    beer = db.Column(db.String)
+    style = db.Column(db.String)
+    abv = db.Column(db.Integer)
+    ibu = db.Column(db.Integer)
+    brewery = db.Column(db.String)
+    city = db.Column(db.String)
+    state = db.Column(db.String)
+
+    def __repr__(self):
+        return '<Brewery_Beer %r>' % (self.name)
+
 # Create database classes
 @app.before_first_request
 def setup():
@@ -80,33 +94,36 @@ def menu(brewery):
 
     return jsonify(beers)
 
-@app.route('/search/<city>')
-def table_city():
-    table_city = []
-    for c in db.session.query(Brewery_Beer).filter(Brewery_Beer.city == city).all():
-        search_dict = {}
-        search_dict['abv'] = c.abv
-        search_dict['brewery'] = C.brewery
-        search_dict['beer'] = c.beer
-        search_dict['style'] = c.style
-        search_dict['ibu'] = c.ibu
-        table_data.append(search_dict)
+@app.route('/city_state')
+def city_state():
+    cities_states = []
+    for combined in db.session.query(Brewery_Beer).all():
+        city_state_dict = {}
+        city_state_dict['abv'] = combined.abv
+        city_state_dict['brewery'] = combined.brewery
+        city_state_dict['beer'] = combined.beer
+        city_state_dict['style'] = combined.style
+        city_state_dict['ibu'] = combined.ibu
+        city_state_dict['city'] = combined.city
+        city_state_dict['state'] = combined.state
+        cities_states.append(city_state_dict)
+    return jsonify(cities_states)
 
-    return jsonify(table_city)
+# @app.route('/states/<state>')
+# def states(state):
+#     beers_state = []
+#     for s in db.session.query(Brewery_Beer).filter(Brewery_Beer.state == state).all():
+#         beers_state_dict = {}
+#         beers_state_dict['abv'] = s.abv
+#         beers_state_dict['brewery'] = s.brewery
+#         beers_state_dict['beer'] = s.beer
+#         beers_state_dict['style'] = s.style
+#         beers_state_dict['ibu'] = s.ibu
+#         beers_state_dict['city'] = s.city
+#         beers_state_dict['state'] = s.state
+#         beers_state.append(beers_state_dict)
 
-@app.route('/search/<state>')
-def table_state():
-    table_state = []
-    for s in db.session.query(Brewery_Beer).filter(Brewery_Beer.state == state).all():
-        search_dict = {}
-        search_dict['abv'] = s.abv
-        search_dict['brewery'] = s.brewery
-        search_dict['beer'] = s.beer
-        search_dict['style'] = s.style
-        search_dict['ibu'] = s.ibu
-        table_data.append(search_dict)
-
-    return jsonify(table_state)
+#     return jsonify(beers_state)
 
 if __name__ == '__main__':
     app.run(debug=True)
