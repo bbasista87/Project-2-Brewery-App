@@ -61,9 +61,9 @@ def setup():
 def index():
     return render_template('index.html')
 
-@app.route('/search')
+@app.route('/table')
 def markers():
-    return render_template('search.html')
+    return render_template('table.html')
 
 @app.route('/breweries')
 def breweries():
