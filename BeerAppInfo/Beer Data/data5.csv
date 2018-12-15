@@ -1,0 +1,108 @@
+,brewery_id,latitude,longitude,name,address1,city,state,code,country,phone,website
+7,8,41.2225,-77.0369,Abbey Wright Brewing/Valley Inn,204 Valley Street,Williamsport,Pennsylvania,17702,United States,570.326.3383,http://www.valleyinnonline.com/
+8,9,41.4392,-87.1078,Aberdeen Brewing,210 Aberdeen Dr.,Valparaiso,Indiana,,United States,(219) 548-3300,
+23,26,47.7237,10.3141,Allentown Brew Works,814 W Hamilton St,Allentown,Pennsylvania,18101,United States,610.433.7777,http://www.thebrewworks.com/allentown-brewworks/
+43,47,42.321999999999996,-85.1851,Appalachian Brewing Company,50 N. Cameron St.,Harrisburg,Pennsylvania,17110,United States,717.221.1080,http://www.abcbrew.com
+45,51,35.6221,-82.5536,Arcadia Brewing,103 West Michigan Avenue,Battle Creek,Michigan,49017,United States,1-269-963-9690,http://www.arcadiaales.com/
+54,1394,35.6197,-78.8085,Atwater Block Brewing,237 Joseph Campau Street,Detroit,Michigan,48207,United States,1-313-877-9205,http://www.atwaterbeer.com
+59,69,39.42,-76.54,Back Road Brewery,310 Perry Street,LaPorte,Indiana,46350,United States,1-219-362-7623,http://www.backroadbrewery.com/
+62,72,44.3875,-68.2046,Bad Frog Brewery Company,,Rose City,Michigan,,United States,,
+72,82,47.5203,-122.31200000000001,Barley Creek Brewing,RR 1 Box 185,Tannersville,Pennsylvania,18372,United States,1-570-629-9399,http://www.barleycreek.com/
+73,83,39.1136,-84.52600000000001,Barley Island Brewing,639 Conner Street,Noblesville,Indiana,46060,United States,1-317-770-5280,
+75,85,52.8046,-1.6281,Barley's #2 Smokehouse and Brewpub,1130 Dublin Road,Columbus,Ohio,43215,United States,1-614-485-0227,
+76,86,10.9639,-74.7964,Barley's Brewing #1,467 North High Street,Columbus,Ohio,43215,United States,1-614-228-2537,
+79,88,48.3952,11.7288,Barrel House Brewing Co.,544B W. Liberty St.,Cincinnati,Ohio,45214,United States,513-421-2337,http://www.barrelhouse.com
+83,92,37.7694,-122.51,Bavarian Barbarian Brewing Company,429 W. 3rd St,Williamsport,Pennsylvania,17701,United States,570.332.5050,http://www.bavarianbarbarian.com
+96,107,40.1106,-88.2073,Bell's Brewery Inc.,8938 Krum Ave.,Galesburg,Michigan,49053,United States,269.382.2338,http://www.bellsbeer.com/
+102,113,35.8104,-78.6179,Bethlehem Brew Works,569 Main St,Bethlehem,Pennsylvania,18018,United States,610.882.1300,http://www.thebrewworks.com/bethlehem-brew-works
+110,121,50.9847,-113.956,Big Buck Brewery,550 South Wisconsin Avenue,Gaylord,Michigan,49735,United States,,http://www.bigbuck.com/gaylord.html
+111,122,46.9223,-114.073,Big Buck Brewery and Steakhouse #2,,Grand Rapids,Michigan,,United States,,
+136,149,35.1584,-114.573,Bloomington Brewing Company,"1795 E 10th St,",Bloomington,Indiana,47402,United States,812.323-2112,http://bbc.bloomington.com
+147,161,39.0821,-94.5965,Bonfire Brewery,,Northville,Michigan,,United States,,
+233,255,45.5311,-122.685,Brew Kettle Taproom & Smokehouse BOP,8377 Pearl Road,Strongsville,Ohio,44136,United States,1-440-239-8788,
+252,274,50.9098,4.2505,Broad Ripple Brewing,842 East 65th Street,Indianapolis,Indiana,46220,United States,1-317-253-2739,
+307,338,43.0949,-89.5163,Bube's Brewery,102 North Market Street,Mount Joy,Pennsylvania,17552,United States,717) 653-2056,http://www.bubesbrewery.com
+312,343,52.7196,-6.846,Bullfrog Brewery,231 W. Fourth Street,Williamsport,Pennsylvania,17701,United States,570.326.4700,http://www.bullfrogbrewery.com
+371,409,40.2795,-75.2143,Circle V Brewing,,Indianapolis,Indiana,,United States,,
+374,412,40.8069,-96.6817,Cleveland ChopHouse and Brewery,824 West St.Clair Avenue,Cleveland,Ohio,44113,United States,1-216-623-0909,
+393,431,51.0811,3.3699,Copper Kettle Brewery,339 Fairground Rd,Millmont,Pennsylvania,17845,United States,270-342-1638,http://www.ckbrewery.com/
+400,438,38.2362,-122.64,Crabby Larry's Brewpub Steak & Crab House,237 West Butler Avenue,Chalfont,Pennsylvania,18914,United States,1-215-822-8788,http://www.crabbylarrys.com/
+407,445,47.9485,-122.305,Crooked River Brewing,,Cleveland,Ohio,,United States,,
+416,456,39.9478,-75.2229,Dark Horse Brewing Co.,511 S. Kalamazoo Ave.,Marshall,Michigan,49068,United States,269-781-9940,http://www.darkhorsebrewery.com/
+433,474,-45.0331,168.66099999999997,Devil Mountain Brewing,,Cincinnati,Ohio,,United States,,
+436,477,38.7814,-76.2222,Diamondback Brewery,,Cleveland,Ohio,,United States,,
+446,490,40.8911,-77.477,Dock Street Beer,701 S. 50th Street,West Philly,Pennsylvania,19143,United States,(215)-726-2337,http://www.dockstreetbeer.com
+453,497,47.6688,-122.334,Dragonmead Microbrewery,14600 East Eleven Mile Road,Warren,Michigan,48089,United States,1-586-776-9428,
+462,507,42.1112,-80.113,Duneland Brewhouse Pub and Restaurant,,Michigan City,Indiana,46360,United States,1-219-878-9180,
+466,511,47.568999999999996,11.0942,East End Brewing Company,6923 Susquehanna St.,Pittsburgh,Pennsylvania,15208,United States,412-537-2337,http://www.eastendbrewing.com/
+478,524,35.5953,-120.694,Elk Creek Cafe and Aleworks,100 West Main Street PO Box 432,Millheim,Pennsylvania,16854,United States,(814) 349-8850,http://www.elkcreekcafe.net/
+495,542,50.6818,4.9547,Erie Brewing Company,1213 Veshecco Drive,Erie,Pennsylvania,16501,United States,(814) 459-7741,http://www.eriebrewingco.com
+536,587,26.0745,-80.1806,Founders Brewing,235 Grandville Avenue SW,Grand Rapids,Michigan,49503,United States,1-616-776-1195,http://www.foundersbrewing.com/
+547,598,49.2705,-123.13600000000001,Frontwaters Restaurant and Brewing,,Marblehead,Ohio,,United States,,
+592,643,40.7323,-73.9874,Great Lakes Brewing,2516 Market Avenue,Cleveland,Ohio,44113,United States,1-216-771-4404,http://www.greatlakesbrewing.com
+601,656,43.1646,-77.6155,Grizzly Peak Brewing,120 West Washington Street,Ann Arbor,Michigan,48104,United States,1-734-741-7325,
+637,693,35.6675,-117.874,Hereford & Hops Restaurant and Brewpub #1,624 Ludington Street,Escanaba,Michigan,49829,United States,1-906-789-1945,
+659,716,40.5549,-74.2771,Hoppin Frog Brewery,1680-F East Waterloo Rd.,Akron,Ohio,44306,United States,(330) 352-4578,http://www.hoppinfrog.com/
+669,726,33.9533,-117.396,Hudepohl-Schoenling Brewing,"10921 Reed Hartman Highway, Suite 329",Cincinnati,Ohio,45242,United States,1-513-984-6910,
+676,734,44.5236,-89.5746,Independence Brew Pub,1150 Filbert Street,Philadelphia,Pennsylvania,19107,United States,1-215-922-4292,http://www.independencebrewpub.com/
+683,744,52.091,14.6509,Iron City Brewing Co.,3340 Liberty Ave.,Pittsburgh,Pennsylvania,15201,United States,412-682-7400,http://www.ironcitybrewingcompany.com/Default.aspx
+696,759,32.8409,-117.274,Jasper Ridge Brewery,1075 Country Lane,Ishpeming,Michigan,49849,United States,1-906-485-6017,
+702,765,38.2724,-122.662,JoBoy's Brew Pub,87 Doe Run Rd,Manheim,Pennsylvania,17545,United States,,http://www.joboysbrewpub.com/
+707,771,40.0438,-76.2984,Jolly Pumpkin Artisan Ales,3115 Broad Street,Dexter,Michigan,48130,United States,1-734-426-4962,http://www.jollypumpkin.com
+714,778,33.4577,-117.589,Kalamazoo Brewing,355 East Kalamazoo Avenue,Kalamazoo,Michigan,49007,United States,1-269-382-2338,
+740,805,43.7379,-79.5714,Kuhnhenn Brewing,5919 Chicago Road,Warren,Michigan,48092,United States,1-586-979-8361,http://www.kbrewery.com/
+748,813,37.7702,-122.445,Lafayette Brewing,622 Main Street,Lafayette,Indiana,47901,United States,1-765-742-2591,
+755,820,-33.8867,151.174,Lancaster Brewing Co.,302 N. Plum St.,Lancaster,Pennsylvania,17602,United States,717-391-6258,http://www.lancasterbrewing.com/index.html
+758,823,40.0236,-75.2202,Latrobe Brewing,,Latrobe,Pennsylvania,,United States,,
+764,829,47.6637,-122.37700000000001,Legacy Brewing Co.,545 Canal Street,Reading,Pennsylvania,19602,United States,(610) 376-9996,http://www.legacybrewing.com
+776,841,39.8658,-75.5442,Lion Brewery Inc.,700 North Pennsylvania Blvd.,Wilkes Barre,Pennsylvania,18705,United States,(800) 233-8327,http://www.lionbrewery.com/
+778,843,51.7975,-0.0806,Listermann Brewing Company,1621 Dana Ave.,Cincinnati,Ohio,45212,United States,(513) 731-1130,http://www.listermann.com/
+792,857,43.0508,-76.1617,Mad Anthony Brewing,2002 Broadway,Fort Wayne,Indiana,46802,United States,1-260-426-2537,
+793,858,61.1473,-149.844,Mad Crab Restaurant and Brewery,,Strongsville,Ohio,,United States,,
+807,873,49.1323,-122.34299999999999,Manayunk Brewery and Restaurant,4120 Main Street,Philadelphia,Pennsylvania,19127,United States,1-215-482-8220,http://www.manayunkbrewery.com/
+814,880,36.1286,-115.171,Marquette Harbor Brewery and Restaurant,119 South Front Street,Marquette,Michigan,49855,United States,1-906-228-3533,
+817,883,38.498000000000005,-122.78,Marzoni's Brick Oven & Brewing Co,165 Patchway Road,Duncansville,Pennsylvania,16635,United States,814-695-2931,http://www.marzonis.com/
+821,887,45.2578,-66.0984,Maumee Bay Brewing,27 Broadway,Toledo,Ohio,43602,United States,1-419-243-1302,
+825,891,40.019,-105.275,McKenzie Brew House,451 Wilmington-West Chester Pike,Glen Mills,Pennsylvania,19342,United States,1-610-361-9800,http://www.mckenziebrewhouse.com
+837,904,38.3281,-85.8171,Michigan Brewing,1093 Highview Drive,Webberville,Michigan,48892,United States,1-517-521-3600,http://www.michiganbrewing.com/
+856,926,42.0884,-87.9806,Mishawaka Brewing,3703 North Main Street,Mishawaka,Indiana,46545,United States,1-574-256-9993,
+888,960,40.8098,-77.9101,New Albanian Brewing,3312 Plaza Drive,New Albany,Indiana,47150,United States,1-812-949-2804,http://www.newalbanian.com
+892,964,32.7978,-117.24,New Holland Brewing Company,66 East Eighth Street,Holland,Michigan,49423,United States,1-616-355-6422,http://newhollandbrew.com
+894,966,47.5143,-122.353,New Road Brewhouse,,Collegeville,Pennsylvania,,United States,,
+900,972,48.1391,11.5802,Nodding Head Brewpub,1516 Sansom Street,Philadelphia,Pennsylvania,19102,United States,1-215-569-9525,http://www.noddinghead.com/
+904,976,42.8368,-71.6626,North Country Brewery,141 South Main Street,Slippery Rock,Pennsylvania,16057,United States,(724)-794-BEER,http://www.northcountrybrewing.com
+914,986,33.7268,-111.853,Oaken Barrel Brewing,50 North Airport Parkway,Greenwood,Indiana,46143,United States,1-317-887-2287,http://www.oakenbarrel.com/
+921,996,47.8809,18.1972,Ohio Brewing,,Niles,Ohio,,United States,,
+925,1000,41.9455,-88.4507,Old Hat Brewery,114 North Main Street,Lawton,Michigan,49065,United States,1-269-624-6445,
+927,1002,37.2283,-77.3903,Olde Peninsula Brewpub and Restaurant,200 East Michigan Avenue,Kalamazoo,Michigan,49007,United States,1-269-343-2739,
+944,1020,51.2292,6.7925,Otto's Pub and Brewery,2105 N. Atherton St.,State College,Pennsylvania,16803,United States,814-867-6886,http://www.ottospubandbrewery.com/index.php
+946,1023,48.9175,11.8735,Oyster Bar Bistro and Brewery,,Fort Wayne,Indiana,46825,United States,1-260-490-6755,
+959,1036,41.5841,-93.6296,Penn Brewery,800 Vinial St.,Pittsburgh,Pennsylvania,15212,United States,412-237-9400,http://www.pennbrew.com/
+961,1038,32.7366,-97.3274,Pennsylvania Brewing,800 Vinial Street,Pittsburgh,Pennsylvania,15212,United States,1-412-237-9402,
+965,1042,42.832,-88.714,Philadelphia Brewing Co,2423 Amber St,Philadelphia,Pennsylvania,19125,United States,215-427-BREW (2739),http://philadelphiabrewing.com/index.htm
+995,1072,44.6202,-124.052,Porterhouse Restaurant and Brewpub,5775 Lower Mountain Road,Lahaska,Pennsylvania,18931,United States,1-215-794-9373,
+1033,1111,52.5435,-2.1156,Red Star Brewery & Grille,101 Ehalt St.,Greensburg,Pennsylvania,15601,United States,724.850.7245,http://www.redstarbrewery.com/
+1044,1123,55.9465,-3.2485,Rivertowne Pour House,312 Center Rd,Monroeville,Pennsylvania,15146,United States,412-372-8199,http://www.myrivertowne.com/
+1052,1131,20.8947,-156.47,Rocky River Brewing,21290 Center Ridge Road,Rocky River,Ohio,44116,United States,1-440-895-2739,
+1054,1133,44.9133,-93.5033,Roffey Brewery,,Holland,Michigan,,United States,,
+1064,1143,44.722,-123.91799999999999,Roy Pitz Brewing Company,140 North Third Street,Chambersburg,Pennsylvania,17201,United States,717-496-8753,http://roypitz.com/
+1111,1193,42.1976,-122.715,Selin's Grove Brewing Co.,121 North Market St.,Selinsgrove,Pennsylvania,17870,United States,570-374-7308,http://www.selinsgrovebrewing.com/
+1122,1204,33.1157,-117.12,Short's Brewing Company,121 N. Bridge Street,Bellaire,Michigan,49615,United States,231-533-6622,http://www.shortsbrewing.com
+1140,1223,39.0324,-77.4097,Sly Fox Brewhouse and Eatery - Phoenixville,519 Kimberton Road,Phoenixville,Pennsylvania,19460,United States,1-610-935-4540,http://www.slyfoxbeer.com/index1.asp
+1141,1224,33.8087,-84.3813,Sly Fox Brewhouse and Eatery - Royersford,312 North Lewis Road,Royersford,Pennsylvania,19468,United States,1-610-948-8088,http://www.slyfoxbeer.com/index1.asp
+1151,1235,43.8014,-91.2396,South County Brewing Co.,104 Mill St.,Fawn Grove,Pennsylvania,17321,United States,,http://www.southcountybrewing.com/
+1165,1250,42.1185,-86.4537,Spring House Brewing Company,2519 Main St.,Conestoga,Pennsylvania,17516,United States,,http://www.springhousebeer.com/
+1192,1277,20.8911,-156.505,Stoney Creek Brewing Company,237 Joseph Campau,Detroit,Michigan,48207,United States,1-877-786-6399,
+1194,1279,38.7745,-90.484,Stoudt's Brewery,2800 North Reading Road,Adamstown,Pennsylvania,19501,United States,717-484-4386,http://www.stoudtsbeer.com/brewery.html
+1197,1282,38.8967,-104.855,Straub Brewery,303 Sorg Street,St. Mary's,Pennsylvania,15857,United States,814-834-2875,http://www.straubbeer.com/index.htm
+1202,1287,13.7234,100.476,Sullivan's Black Forest Brew Haus & Grill,281 Heinlein Strasse,Frankenmuth,Michigan,48734,United States,1-800-890-6877,
+1230,1318,40.7322,-111.9,The Church Brew Works,3525 Liberty Avenue,Pittsburgh,Pennsylvania,15201,United States,412-688-8200,http://churchbrew.com/
+1232,1321,40.0439,-75.3881,The Livery,190 5th Street,Benton Harbor,Michigan,49022,United States,(269) 925-8760,http://liverybrew.com/
+1235,1324,44.4773,-73.2144,The Round Barn Winery & Brewery,10983 Hills Road,Baroda,Michigan,49101,United States,(800)-716-9463,http://www.roundbarnwinery.com/brewery.php
+1236,1326,40.0061,-75.6942,Thirsty Dog Brewing,529 Grant St. Suite B,Akron,Ohio,44311,United States,330-252-2739,http://www.thirstydog.com
+1241,1332,42.5586,-71.8715,Three Floyds Brewing,9750 Indiana Parkway,Munster,Indiana,46321,United States,1-219-922-3565,http://www.threefloydspub.com/
+1258,1352,40.6732,-75.2249,Traffic Jam and Snug,4268 Second Street,Detroit,Michigan,48201,United States,313-831-9470,
+1264,1358,45.3498,-123.073,Triumph Brewing of New Hope,400 Union Square,New Hope,Pennsylvania,18938,United States,1-215-862-8300,http://www.triumphbrewing.com/
+1266,1360,51.2047,0.6813,Troegs Brewing,800 Paxton Street,Harrisburg,Pennsylvania,17104,United States,1-717-232-1297,http://www.troegs.com/
+1289,1391,36.150999999999996,-86.7821,Union Barrel Works,6 N. Reamstown Road,Reamstown,Pennsylvania,17567,United States,717-335-7837,http://www.unionbarrelworks.com/
+1293,1385,51.4611,-0.1966,Upland Brewing,350 West Eleventh Street,Bloomington,Indiana,47404,United States,1-812-336-2337,http://www.uplandbeer.com

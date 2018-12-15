@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Beer Data</title>
+
+
+  <!--link type="text/css" rel="stylesheet" href="reset.css"Importing leaflet-->
+  <link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
+  <link type="text/css" rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.css">
+</head>
+
+<body>
+
+  <!-- The div that holds our map -->
+  <div id="map-id"></div>
+
+  <!-- D3 -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
+
+  <!-- Leaflet JavaScript -->
+  <script src="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
+
+
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+
+      <div class="navbar-header">
+        <a class="navbar-brand" id="nav-brand" href="index.html">Beer Data</a>
+      </div>
+
+      <div>
+
+        <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Menu
+                  <span class="caret"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="Map.html">Map</a></li>
+                  <li><a href="Breweries.html">Directors Table</a></li>
+                  <li><a href="Graphs.html">Graphs</a></li>
+                </ul>
+            </li>
+
+          <li><a href="data.html">Data</a></li>
+        </ul>
+      </div>
+
+    </div>
+
+  </nav>
+
+  <main class="container-fluid">
+    <div class="row">
+        <div class="col-md-6 back-container" id="landing-summary">
+          <header>
+              <h1 id="summary-title">Summary of Project</h1>
+          </header>
+          <hr>
+          <section id="summary-text">
+            <section>
+              <img id="summary-image" src="./Resources/Whatever.png" alt="meme" width = "300" height = "300">
+            </section>
+            <p>Explore Beer With Us</p>
+            
+          </section>
+      </div>
+      <!--Visulizations side panel-->
+      <div class="col-md-4 back-container" id="side-panel">
+              <h2 id="side-panel-title">Visualizations</h2>
+              <hr>
+              <div class="row">
+                <a href="Map.html">
+                  <div class="thumbnail viz-plot">
+                      <img src="./Resources/Fig1.png" alt="Map">
+                  </div>
+                </a>
+                <a href="Breweries.html">
+                    <div class="thumbnail viz-plot">
+                        <img src="./Resources/Fig2.png" alt="Breweries">
+                    </div>
+                </a>
+                <a href="Graphs.html">
+                    <div class="thumbnail viz-plot">
+                        <img src="./Resources/Fig3.png" alt="Graph">
+                    </div>
+                </a>
+
+              </div>
+    </div>
+  </main>
+
+</body>
+
+</html>
